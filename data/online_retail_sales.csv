@@ -1,0 +1,1001 @@
+OrderID,Date,CustomerID,Product,Category,Subcategory,Price,Quantity,TotalAmount,DiscountPercent,DiscountAmount,FinalAmount,PaymentMethod,CustomerAge,CustomerGender,City,State,Rating
+10000,2023-01-01,1425,Accessories Product 92,Sports,Accessories,283.86,2,567.72,5,28.39,539.33,Bank Transfer,69,Female,Tampa,Florida,5
+10001,2023-01-01,6228,Shoes Product 21,Clothing,Shoes,76.93,1,76.93,0,0.0,76.93,Bank Transfer,27,Female,Chicago,Illinois,4
+10002,2023-01-01,6228,Biographies Product 52,Books,Biographies,70.94,2,141.88,0,0.0,141.88,PayPal,29,Non-binary,Orlando,Florida,5
+10003,2023-01-01,2405,Dresses Product 71,Clothing,Dresses,25.59,2,51.18,0,0.0,51.18,Apple Pay,65,Male,Buffalo,New York,3
+10004,2023-01-01,8218,Furniture Product 27,Home & Kitchen,Furniture,866.58,1,866.58,5,43.33,823.25,Bank Transfer,57,Non-binary,Albany,New York,2
+10005,2023-01-01,8218,Comics Product 35,Books,Comics,79.43,2,158.86,0,0.0,158.86,Google Pay,70,Female,New York City,New York,4
+10006,2023-01-02,5741,Cookware Product 32,Home & Kitchen,Cookware,970.25,1,970.25,0,0.0,970.25,Credit Card,62,Female,Rochester,New York,2
+10007,2023-01-02,2222,Furniture Product 83,Home & Kitchen,Furniture,653.16,1,653.16,5,32.66,620.5,Credit Card,18,Female,Rochester,New York,4
+10008,2023-01-02,2222,Pants Product 33,Clothing,Pants,41.36,2,82.72,0,0.0,82.72,Apple Pay,41,Male,Rockford,Illinois,3
+10009,2023-01-03,2222,Shirts Product 43,Clothing,Shirts,123.46,2,246.92,5,12.35,234.57,Google Pay,49,Non-binary,Tampa,Florida,4
+10010,2023-01-04,3752,Equipment Product 83,Sports,Equipment,416.94,2,833.88,5,41.69,792.19,Credit Card,73,Female,Austin,Texas,3
+10011,2023-01-04,3752,Non-fiction Product 66,Books,Non-fiction,38.28,1,38.28,0,0.0,38.28,Apple Pay,57,Female,Rockford,Illinois,5
+10012,2023-01-04,3752,Fitness Product 15,Sports,Fitness,138.33,3,414.99,0,0.0,414.99,Google Pay,49,Non-binary,Jacksonville,Florida,3
+10013,2023-01-04,3752,Laptops Product 38,Electronics,Laptops,1384.46,1,1384.46,0,0.0,1384.46,PayPal,43,Female,Syracuse,New York,4
+10014,2023-01-05,3752,Fiction Product 73,Books,Fiction,60.9,2,121.8,0,0.0,121.8,PayPal,49,Male,Jacksonville,Florida,4
+10015,2023-01-05,3752,Accessories Product 24,Sports,Accessories,190.28,2,380.56,0,0.0,380.56,Credit Card,75,Non-binary,San Jose,California,5
+10016,2023-01-05,3752,Tablets Product 22,Electronics,Tablets,1549.5,2,3099.0,20,619.8,2479.2,Credit Card,73,Male,Syracuse,New York,5
+10017,2023-01-05,3752,Tablets Product 58,Electronics,Tablets,591.65,1,591.65,0,0.0,591.65,PayPal,20,Male,Rochester,New York,1
+10018,2023-01-05,3752,Non-fiction Product 87,Books,Non-fiction,62.41,2,124.82,10,12.48,112.34,Google Pay,40,Male,Syracuse,New York,3
+10019,2023-01-06,3752,Furniture Product 25,Home & Kitchen,Furniture,102.15,1,102.15,10,10.22,91.93,Apple Pay,65,Female,San Diego,California,5
+10020,2023-01-06,3752,Biographies Product 28,Books,Biographies,54.51,5,272.55,5,13.63,258.92,PayPal,28,Female,Rockford,Illinois,4
+10021,2023-01-06,3948,Smartphones Product 94,Electronics,Smartphones,1804.1,1,1804.1,0,0.0,1804.1,PayPal,26,Male,Naperville,Illinois,2
+10022,2023-01-06,1348,Biographies Product 76,Books,Biographies,50.47,3,151.41,5,7.57,143.84,Credit Card,52,Male,Austin,Texas,3
+10023,2023-01-07,1348,Cameras Product 18,Electronics,Cameras,1440.07,1,1440.07,5,72.0,1368.07,PayPal,23,Non-binary,Naperville,Illinois,1
+10024,2023-01-07,1348,Smartphones Product 5,Electronics,Smartphones,1323.02,1,1323.02,20,264.6,1058.42,Bank Transfer,66,Male,San Jose,California,3
+10025,2023-01-08,1348,Cameras Product 80,Electronics,Cameras,1198.19,1,1198.19,0,0.0,1198.19,Credit Card,45,Male,Dallas,Texas,3
+10026,2023-01-08,1348,Biographies Product 2,Books,Biographies,28.32,2,56.64,0,0.0,56.64,Credit Card,60,Non-binary,San Diego,California,5
+10027,2023-01-08,1348,Furniture Product 31,Home & Kitchen,Furniture,708.47,1,708.47,0,0.0,708.47,PayPal,56,Non-binary,Austin,Texas,5
+10028,2023-01-09,1348,Decor Product 55,Home & Kitchen,Decor,574.85,1,574.85,0,0.0,574.85,Credit Card,72,Female,Houston,Texas,5
+10029,2023-01-09,1348,Dresses Product 43,Clothing,Dresses,147.7,1,147.7,20,29.54,118.16,Apple Pay,43,Male,Dallas,Texas,5
+10030,2023-01-09,1348,Fitness Product 20,Sports,Fitness,233.53,1,233.53,5,11.68,221.85,PayPal,51,Female,Tampa,Florida,4
+10031,2023-01-10,1348,Accessories Product 90,Clothing,Accessories,143.88,1,143.88,0,0.0,143.88,Bank Transfer,48,Male,Buffalo,New York,4
+10032,2023-01-10,1348,Non-fiction Product 42,Books,Non-fiction,10.41,1,10.41,0,0.0,10.41,Apple Pay,73,Non-binary,Jacksonville,Florida,5
+10033,2023-01-10,1348,Pants Product 63,Clothing,Pants,106.35,2,212.7,0,0.0,212.7,Credit Card,54,Male,Springfield,Illinois,3
+10034,2023-01-12,8407,Pants Product 14,Clothing,Pants,94.42,1,94.42,0,0.0,94.42,Bank Transfer,70,Non-binary,San Diego,California,4
+10035,2023-01-12,5025,Decor Product 89,Home & Kitchen,Decor,86.31,1,86.31,5,4.32,81.99,Credit Card,68,Female,Naperville,Illinois,5
+10036,2023-01-12,5025,Pants Product 57,Clothing,Pants,124.12,2,248.24,0,0.0,248.24,Google Pay,38,Female,Orlando,Florida,3
+10037,2023-01-13,5025,Comics Product 48,Books,Comics,13.21,1,13.21,5,0.66,12.55,Bank Transfer,56,Non-binary,Peoria,Illinois,4
+10038,2023-01-13,5025,Decor Product 44,Home & Kitchen,Decor,327.07,1,327.07,0,0.0,327.07,Credit Card,71,Female,Rockford,Illinois,5
+10039,2023-01-13,8569,Headphones Product 50,Electronics,Headphones,215.83,1,215.83,0,0.0,215.83,Google Pay,56,Female,Syracuse,New York,5
+10040,2023-01-13,3946,Apparel Product 10,Sports,Apparel,152.97,2,305.94,0,0.0,305.94,Apple Pay,48,Non-binary,San Jose,California,3
+10041,2023-01-14,3450,Dresses Product 34,Clothing,Dresses,157.62,2,315.24,0,0.0,315.24,PayPal,50,Non-binary,Miami,Florida,4
+10042,2023-01-14,9621,Appliances Product 85,Home & Kitchen,Appliances,808.84,1,808.84,10,80.88,727.96,Google Pay,64,Male,Dallas,Texas,4
+10043,2023-01-14,5419,Equipment Product 28,Sports,Equipment,85.37,1,85.37,5,4.27,81.1,Bank Transfer,21,Female,Jacksonville,Florida,4
+10044,2023-01-14,5419,Bedding Product 62,Home & Kitchen,Bedding,287.32,2,574.64,5,28.73,545.91,Google Pay,66,Female,Peoria,Illinois,5
+10045,2023-01-15,9792,Cameras Product 14,Electronics,Cameras,618.59,1,618.59,0,0.0,618.59,Credit Card,47,Non-binary,San Francisco,California,4
+10046,2023-01-15,8910,Equipment Product 84,Sports,Equipment,231.48,1,231.48,10,23.15,208.33,Google Pay,44,Female,Austin,Texas,5
+10047,2023-01-15,8596,Decor Product 72,Home & Kitchen,Decor,203.48,1,203.48,0,0.0,203.48,Google Pay,54,Non-binary,Sacramento,California,5
+10048,2023-01-16,7048,Pants Product 51,Clothing,Pants,129.0,1,129.0,15,19.35,109.65,Apple Pay,44,Non-binary,Tallahassee,Florida,5
+10049,2023-01-17,7192,Headphones Product 42,Electronics,Headphones,1232.49,2,2464.98,0,0.0,2464.98,Apple Pay,18,Female,San Antonio,Texas,4
+10050,2023-01-18,7192,Non-fiction Product 25,Books,Non-fiction,80.51,2,161.02,15,24.15,136.87,Apple Pay,37,Male,San Jose,California,5
+10051,2023-01-19,7192,Decor Product 88,Home & Kitchen,Decor,632.63,1,632.63,15,94.89,537.74,Apple Pay,45,Non-binary,Jacksonville,Florida,5
+10052,2023-01-19,7192,Cookware Product 84,Home & Kitchen,Cookware,574.56,2,1149.12,0,0.0,1149.12,Apple Pay,38,Non-binary,Miami,Florida,2
+10053,2023-01-20,7192,Accessories Product 8,Sports,Accessories,462.21,1,462.21,0,0.0,462.21,Google Pay,68,Non-binary,Buffalo,New York,4
+10054,2023-01-20,7192,Non-fiction Product 67,Books,Non-fiction,92.3,1,92.3,0,0.0,92.3,Bank Transfer,53,Male,San Francisco,California,5
+10055,2023-01-20,7192,Tablets Product 73,Electronics,Tablets,855.09,1,855.09,20,171.02,684.07,PayPal,72,Female,Buffalo,New York,5
+10056,2023-01-21,7192,Shoes Product 87,Clothing,Shoes,141.08,2,282.16,0,0.0,282.16,Bank Transfer,74,Male,Jacksonville,Florida,5
+10057,2023-01-21,7192,Headphones Product 40,Electronics,Headphones,298.67,2,597.34,0,0.0,597.34,Credit Card,28,Non-binary,Tampa,Florida,5
+10058,2023-01-22,7192,Biographies Product 75,Books,Biographies,67.97,2,135.94,0,0.0,135.94,Google Pay,68,Male,Dallas,Texas,3
+10059,2023-01-22,6030,Smartphones Product 1,Electronics,Smartphones,771.44,2,1542.88,0,0.0,1542.88,PayPal,55,Female,Jacksonville,Florida,5
+10060,2023-01-22,6444,Decor Product 98,Home & Kitchen,Decor,346.78,3,1040.34,10,104.03,936.31,PayPal,53,Male,Chicago,Illinois,5
+10061,2023-01-23,8700,Non-fiction Product 52,Books,Non-fiction,27.22,1,27.22,0,0.0,27.22,Credit Card,62,Male,San Antonio,Texas,5
+10062,2023-01-23,8700,Footwear Product 26,Sports,Footwear,400.94,1,400.94,5,20.05,380.89,Bank Transfer,41,Non-binary,Sacramento,California,5
+10063,2023-01-25,7551,Accessories Product 34,Clothing,Accessories,57.75,2,115.5,5,5.78,109.72,Bank Transfer,20,Male,Rochester,New York,5
+10064,2023-01-25,8908,Educational Product 15,Books,Educational,30.44,1,30.44,0,0.0,30.44,PayPal,59,Non-binary,Naperville,Illinois,4
+10065,2023-01-25,1540,Laptops Product 97,Electronics,Laptops,1009.99,2,2019.98,5,101.0,1918.98,Google Pay,63,Female,Fort Worth,Texas,3
+10066,2023-01-26,9481,Comics Product 45,Books,Comics,17.34,2,34.68,0,0.0,34.68,Google Pay,55,Non-binary,San Jose,California,2
+10067,2023-01-26,9481,Smartphones Product 76,Electronics,Smartphones,1799.92,1,1799.92,15,269.99,1529.93,Bank Transfer,36,Male,Fort Worth,Texas,1
+10068,2023-01-26,9481,Shirts Product 46,Clothing,Shirts,57.54,1,57.54,5,2.88,54.66,PayPal,22,Female,San Francisco,California,5
+10069,2023-01-27,9481,Biographies Product 40,Books,Biographies,12.2,4,48.8,5,2.44,46.36,Credit Card,60,Male,Jacksonville,Florida,5
+10070,2023-01-28,9481,Smartphones Product 19,Electronics,Smartphones,1472.86,1,1472.86,0,0.0,1472.86,Apple Pay,29,Non-binary,San Francisco,California,3
+10071,2023-01-28,9481,Smartphones Product 96,Electronics,Smartphones,543.67,1,543.67,5,27.18,516.49,PayPal,38,Non-binary,Peoria,Illinois,5
+10072,2023-01-28,9481,Biographies Product 89,Books,Biographies,86.61,1,86.61,15,12.99,73.62,PayPal,65,Male,Rochester,New York,4
+10073,2023-01-28,9481,Biographies Product 13,Books,Biographies,81.92,1,81.92,5,4.1,77.82,Apple Pay,28,Non-binary,Springfield,Illinois,3
+10074,2023-01-28,1381,Appliances Product 81,Home & Kitchen,Appliances,463.63,2,927.26,0,0.0,927.26,Google Pay,37,Female,Springfield,Illinois,4
+10075,2023-01-29,1381,Appliances Product 69,Home & Kitchen,Appliances,863.48,2,1726.96,5,86.35,1640.61,Bank Transfer,45,Female,San Antonio,Texas,2
+10076,2023-01-29,1381,Furniture Product 64,Home & Kitchen,Furniture,741.11,1,741.11,0,0.0,741.11,Apple Pay,66,Female,New York City,New York,4
+10077,2023-01-30,1381,Dresses Product 59,Clothing,Dresses,68.63,2,137.26,0,0.0,137.26,Bank Transfer,21,Female,Houston,Texas,5
+10078,2023-01-31,1381,Accessories Product 36,Clothing,Accessories,57.57,2,115.14,0,0.0,115.14,Apple Pay,72,Female,Chicago,Illinois,5
+10079,2023-02-02,1381,Laptops Product 25,Electronics,Laptops,421.83,1,421.83,0,0.0,421.83,Credit Card,64,Non-binary,Tallahassee,Florida,4
+10080,2023-02-02,1381,Apparel Product 10,Sports,Apparel,17.2,1,17.2,0,0.0,17.2,Google Pay,18,Male,Naperville,Illinois,3
+10081,2023-02-02,1381,Cookware Product 26,Home & Kitchen,Cookware,330.0,2,660.0,0,0.0,660.0,Credit Card,54,Female,Albany,New York,5
+10082,2023-02-03,1381,Dresses Product 42,Clothing,Dresses,49.84,3,149.52,0,0.0,149.52,Bank Transfer,18,Non-binary,San Diego,California,1
+10083,2023-02-03,1381,Appliances Product 36,Home & Kitchen,Appliances,247.71,1,247.71,0,0.0,247.71,Credit Card,47,Female,Fort Worth,Texas,4
+10084,2023-02-03,6523,Apparel Product 15,Sports,Apparel,486.19,2,972.38,5,48.62,923.76,Credit Card,47,Male,Buffalo,New York,5
+10085,2023-02-03,5162,Laptops Product 89,Electronics,Laptops,210.91,3,632.73,0,0.0,632.73,PayPal,38,Female,Sacramento,California,3
+10086,2023-02-04,5371,Cookware Product 5,Home & Kitchen,Cookware,339.68,3,1019.04,0,0.0,1019.04,Bank Transfer,49,Male,Rochester,New York,5
+10087,2023-02-04,5371,Bedding Product 23,Home & Kitchen,Bedding,413.88,1,413.88,20,82.78,331.1,PayPal,57,Female,Springfield,Illinois,4
+10088,2023-02-04,6097,Decor Product 51,Home & Kitchen,Decor,139.95,2,279.9,0,0.0,279.9,Bank Transfer,50,Female,San Jose,California,4
+10089,2023-02-04,6097,Tablets Product 86,Electronics,Tablets,1489.51,1,1489.51,5,74.48,1415.03,Google Pay,48,Male,Dallas,Texas,4
+10090,2023-02-04,1470,Accessories Product 55,Sports,Accessories,171.3,1,171.3,0,0.0,171.3,Bank Transfer,23,Non-binary,Rockford,Illinois,5
+10091,2023-02-05,1971,Apparel Product 74,Sports,Apparel,229.66,2,459.32,0,0.0,459.32,Google Pay,30,Male,Orlando,Florida,2
+10092,2023-02-05,1971,Decor Product 100,Home & Kitchen,Decor,99.5,3,298.5,10,29.85,268.65,Bank Transfer,64,Non-binary,Syracuse,New York,2
+10093,2023-02-05,4596,Appliances Product 91,Home & Kitchen,Appliances,814.76,1,814.76,10,81.48,733.28,PayPal,62,Non-binary,Los Angeles,California,5
+10094,2023-02-05,6404,Accessories Product 34,Sports,Accessories,43.38,3,130.14,0,0.0,130.14,PayPal,74,Female,Chicago,Illinois,5
+10095,2023-02-06,1966,Educational Product 9,Books,Educational,62.92,2,125.84,20,25.17,100.67,Bank Transfer,57,Female,Rochester,New York,2
+10096,2023-02-06,1966,Tablets Product 16,Electronics,Tablets,287.83,1,287.83,10,28.78,259.05,Bank Transfer,23,Female,Springfield,Illinois,5
+10097,2023-02-06,1966,Cookware Product 26,Home & Kitchen,Cookware,869.03,1,869.03,0,0.0,869.03,Bank Transfer,67,Non-binary,Syracuse,New York,3
+10098,2023-02-07,1966,Appliances Product 88,Home & Kitchen,Appliances,954.33,1,954.33,0,0.0,954.33,Credit Card,30,Female,Miami,Florida,2
+10099,2023-02-07,1966,Accessories Product 62,Clothing,Accessories,75.97,1,75.97,10,7.6,68.37,Credit Card,53,Female,Sacramento,California,2
+10100,2023-02-08,1966,Fiction Product 71,Books,Fiction,21.36,2,42.72,5,2.14,40.58,Bank Transfer,55,Non-binary,Rochester,New York,5
+10101,2023-02-08,1966,Equipment Product 51,Sports,Equipment,179.07,2,358.14,0,0.0,358.14,Apple Pay,19,Non-binary,Austin,Texas,4
+10102,2023-02-08,1966,Equipment Product 66,Sports,Equipment,466.61,1,466.61,0,0.0,466.61,Credit Card,42,Male,Sacramento,California,1
+10103,2023-02-08,6950,Bedding Product 89,Home & Kitchen,Bedding,157.52,1,157.52,0,0.0,157.52,PayPal,53,Non-binary,Jacksonville,Florida,4
+10104,2023-02-08,2408,Headphones Product 15,Electronics,Headphones,1703.9,1,1703.9,5,85.2,1618.7,PayPal,39,Male,Orlando,Florida,3
+10105,2023-02-08,2565,Equipment Product 8,Sports,Equipment,183.75,3,551.25,5,27.56,523.69,Bank Transfer,75,Female,Albany,New York,5
+10106,2023-02-08,2565,Educational Product 68,Books,Educational,99.82,5,499.1,10,49.91,449.19,PayPal,54,Male,Houston,Texas,3
+10107,2023-02-09,2565,Smartphones Product 79,Electronics,Smartphones,1737.2,1,1737.2,0,0.0,1737.2,Apple Pay,49,Male,Dallas,Texas,3
+10108,2023-02-10,8025,Accessories Product 18,Sports,Accessories,167.81,1,167.81,5,8.39,159.42,Bank Transfer,51,Non-binary,Miami,Florida,4
+10109,2023-02-10,9336,Footwear Product 28,Sports,Footwear,279.78,3,839.34,0,0.0,839.34,Credit Card,45,Non-binary,Fort Worth,Texas,2
+10110,2023-02-10,6390,Decor Product 94,Home & Kitchen,Decor,314.3,2,628.6,5,31.43,597.17,Google Pay,68,Non-binary,Chicago,Illinois,4
+10111,2023-02-11,6390,Cookware Product 18,Home & Kitchen,Cookware,284.34,1,284.34,0,0.0,284.34,Credit Card,70,Female,Naperville,Illinois,4
+10112,2023-02-11,6390,Pants Product 17,Clothing,Pants,177.37,3,532.11,5,26.61,505.5,Apple Pay,32,Male,Buffalo,New York,3
+10113,2023-02-11,6390,Tablets Product 4,Electronics,Tablets,403.99,1,403.99,15,60.6,343.39,PayPal,33,Non-binary,San Diego,California,4
+10114,2023-02-12,6390,Shoes Product 91,Clothing,Shoes,48.82,1,48.82,0,0.0,48.82,Credit Card,51,Female,Rockford,Illinois,2
+10115,2023-02-12,6390,Educational Product 88,Books,Educational,77.49,5,387.45,15,58.12,329.33,Apple Pay,34,Female,Peoria,Illinois,5
+10116,2023-02-13,2467,Laptops Product 51,Electronics,Laptops,700.79,1,700.79,0,0.0,700.79,Credit Card,36,Male,Los Angeles,California,1
+10117,2023-02-13,8509,Shoes Product 69,Clothing,Shoes,77.44,1,77.44,0,0.0,77.44,Bank Transfer,23,Non-binary,San Diego,California,4
+10118,2023-02-13,1609,Pants Product 62,Clothing,Pants,178.2,2,356.4,0,0.0,356.4,Apple Pay,70,Female,Jacksonville,Florida,5
+10119,2023-02-13,1609,Furniture Product 57,Home & Kitchen,Furniture,530.0,1,530.0,5,26.5,503.5,Google Pay,42,Male,Chicago,Illinois,3
+10120,2023-02-14,1609,Fitness Product 5,Sports,Fitness,259.33,2,518.66,10,51.87,466.79,Bank Transfer,31,Male,San Diego,California,4
+10121,2023-02-15,5947,Accessories Product 47,Clothing,Accessories,160.99,1,160.99,0,0.0,160.99,Apple Pay,72,Male,Fort Worth,Texas,5
+10122,2023-02-15,2877,Shirts Product 6,Clothing,Shirts,147.86,2,295.72,0,0.0,295.72,Bank Transfer,72,Male,Orlando,Florida,4
+10123,2023-02-15,2877,Comics Product 50,Books,Comics,89.99,3,269.97,0,0.0,269.97,Credit Card,61,Male,Houston,Texas,5
+10124,2023-02-16,2877,Furniture Product 53,Home & Kitchen,Furniture,682.46,2,1364.92,0,0.0,1364.92,Bank Transfer,73,Female,Dallas,Texas,1
+10125,2023-02-16,2877,Cameras Product 27,Electronics,Cameras,424.87,2,849.74,5,42.49,807.25,Bank Transfer,51,Male,Tampa,Florida,4
+10126,2023-02-16,2877,Furniture Product 85,Home & Kitchen,Furniture,926.0,1,926.0,20,185.2,740.8,Bank Transfer,29,Male,Houston,Texas,4
+10127,2023-02-16,2877,Headphones Product 46,Electronics,Headphones,375.4,1,375.4,5,18.77,356.63,Apple Pay,73,Male,Austin,Texas,4
+10128,2023-02-16,2877,Laptops Product 7,Electronics,Laptops,1280.16,1,1280.16,0,0.0,1280.16,PayPal,49,Female,Rochester,New York,3
+10129,2023-02-17,2877,Appliances Product 94,Home & Kitchen,Appliances,563.5,1,563.5,0,0.0,563.5,Apple Pay,28,Female,San Francisco,California,1
+10130,2023-02-17,2877,Shoes Product 3,Clothing,Shoes,80.01,4,320.04,0,0.0,320.04,Apple Pay,22,Male,Buffalo,New York,4
+10131,2023-02-17,2877,Apparel Product 75,Sports,Apparel,205.2,2,410.4,10,41.04,369.36,Bank Transfer,36,Female,Sacramento,California,5
+10132,2023-02-18,3016,Accessories Product 92,Clothing,Accessories,49.29,2,98.58,0,0.0,98.58,Apple Pay,68,Male,Houston,Texas,2
+10133,2023-02-18,5922,Decor Product 5,Home & Kitchen,Decor,861.29,1,861.29,0,0.0,861.29,Credit Card,19,Female,New York City,New York,4
+10134,2023-02-19,5922,Decor Product 49,Home & Kitchen,Decor,956.61,2,1913.22,0,0.0,1913.22,PayPal,44,Male,Tallahassee,Florida,4
+10135,2023-02-20,5922,Laptops Product 82,Electronics,Laptops,1779.8,1,1779.8,0,0.0,1779.8,PayPal,41,Non-binary,Rochester,New York,4
+10136,2023-02-20,5922,Cookware Product 84,Home & Kitchen,Cookware,800.45,1,800.45,0,0.0,800.45,PayPal,24,Female,San Antonio,Texas,3
+10137,2023-02-20,5922,Laptops Product 54,Electronics,Laptops,827.05,1,827.05,15,124.06,702.99,Google Pay,38,Male,Miami,Florida,5
+10138,2023-02-20,9939,Footwear Product 36,Sports,Footwear,78.07,3,234.21,0,0.0,234.21,Apple Pay,48,Male,Orlando,Florida,4
+10139,2023-02-20,8795,Headphones Product 50,Electronics,Headphones,580.13,1,580.13,0,0.0,580.13,Apple Pay,71,Female,Rockford,Illinois,5
+10140,2023-02-20,8795,Pants Product 35,Clothing,Pants,124.76,1,124.76,0,0.0,124.76,Bank Transfer,33,Female,Albany,New York,5
+10141,2023-02-21,8795,Headphones Product 64,Electronics,Headphones,1014.92,1,1014.92,0,0.0,1014.92,Apple Pay,57,Female,Tampa,Florida,3
+10142,2023-02-21,8795,Apparel Product 32,Sports,Apparel,341.61,1,341.61,0,0.0,341.61,PayPal,30,Non-binary,Peoria,Illinois,3
+10143,2023-02-21,8795,Decor Product 20,Home & Kitchen,Decor,181.25,1,181.25,0,0.0,181.25,PayPal,58,Female,San Antonio,Texas,4
+10144,2023-02-22,8795,Bedding Product 2,Home & Kitchen,Bedding,842.88,1,842.88,20,168.58,674.3,Google Pay,74,Non-binary,Fort Worth,Texas,3
+10145,2023-02-22,8795,Smartphones Product 36,Electronics,Smartphones,1002.15,2,2004.3,0,0.0,2004.3,Credit Card,74,Male,Rockford,Illinois,5
+10146,2023-02-22,8795,Fiction Product 20,Books,Fiction,80.23,1,80.23,0,0.0,80.23,Apple Pay,62,Female,Dallas,Texas,3
+10147,2023-02-22,8795,Cameras Product 5,Electronics,Cameras,1823.06,2,3646.12,15,546.92,3099.2,Apple Pay,71,Female,Jacksonville,Florida,1
+10148,2023-02-22,8795,Apparel Product 59,Sports,Apparel,22.57,2,45.14,0,0.0,45.14,PayPal,36,Female,San Jose,California,3
+10149,2023-02-22,8795,Laptops Product 95,Electronics,Laptops,1179.36,2,2358.72,0,0.0,2358.72,PayPal,56,Male,Houston,Texas,1
+10150,2023-02-22,8795,Cameras Product 27,Electronics,Cameras,1856.54,2,3713.08,0,0.0,3713.08,Apple Pay,48,Male,San Jose,California,3
+10151,2023-02-23,8795,Tablets Product 33,Electronics,Tablets,1130.31,1,1130.31,0,0.0,1130.31,Apple Pay,55,Male,Fort Worth,Texas,5
+10152,2023-02-23,8795,Bedding Product 61,Home & Kitchen,Bedding,756.72,1,756.72,0,0.0,756.72,Apple Pay,63,Non-binary,Rockford,Illinois,2
+10153,2023-02-23,8795,Appliances Product 96,Home & Kitchen,Appliances,937.29,1,937.29,0,0.0,937.29,PayPal,52,Male,Syracuse,New York,4
+10154,2023-02-23,8795,Tablets Product 62,Electronics,Tablets,1232.84,1,1232.84,5,61.64,1171.2,Credit Card,27,Female,Houston,Texas,4
+10155,2023-02-23,8795,Biographies Product 14,Books,Biographies,53.14,5,265.7,0,0.0,265.7,Apple Pay,27,Non-binary,Orlando,Florida,4
+10156,2023-02-23,8795,Appliances Product 2,Home & Kitchen,Appliances,511.99,1,511.99,0,0.0,511.99,Bank Transfer,54,Non-binary,Chicago,Illinois,5
+10157,2023-02-23,8795,Furniture Product 92,Home & Kitchen,Furniture,508.86,1,508.86,0,0.0,508.86,Google Pay,22,Non-binary,Rockford,Illinois,4
+10158,2023-02-24,1460,Shoes Product 80,Clothing,Shoes,167.67,1,167.67,0,0.0,167.67,Credit Card,55,Female,Rockford,Illinois,5
+10159,2023-02-25,4889,Shirts Product 30,Clothing,Shirts,148.87,1,148.87,10,14.89,133.98,PayPal,28,Non-binary,Rockford,Illinois,3
+10160,2023-02-25,4889,Appliances Product 57,Home & Kitchen,Appliances,554.61,1,554.61,15,83.19,471.42,Google Pay,43,Female,Sacramento,California,5
+10161,2023-02-26,4889,Tablets Product 84,Electronics,Tablets,574.76,2,1149.52,0,0.0,1149.52,Credit Card,39,Non-binary,Sacramento,California,2
+10162,2023-02-27,4889,Tablets Product 64,Electronics,Tablets,1475.6,1,1475.6,5,73.78,1401.82,Google Pay,39,Male,Los Angeles,California,3
+10163,2023-02-27,4889,Footwear Product 94,Sports,Footwear,366.33,2,732.66,0,0.0,732.66,Credit Card,65,Female,Tampa,Florida,4
+10164,2023-02-27,4889,Fitness Product 98,Sports,Fitness,123.09,1,123.09,0,0.0,123.09,Google Pay,57,Non-binary,Fort Worth,Texas,3
+10165,2023-02-27,4889,Dresses Product 86,Clothing,Dresses,107.67,1,107.67,0,0.0,107.67,Apple Pay,42,Female,Buffalo,New York,4
+10166,2023-02-27,4889,Accessories Product 80,Clothing,Accessories,187.81,1,187.81,10,18.78,169.03,PayPal,69,Non-binary,San Diego,California,1
+10167,2023-02-27,4889,Furniture Product 18,Home & Kitchen,Furniture,547.23,1,547.23,0,0.0,547.23,Google Pay,50,Non-binary,Albany,New York,5
+10168,2023-02-28,1654,Shirts Product 91,Clothing,Shirts,188.5,2,377.0,0,0.0,377.0,Apple Pay,46,Female,Miami,Florida,4
+10169,2023-03-01,1654,Headphones Product 58,Electronics,Headphones,1868.28,1,1868.28,0,0.0,1868.28,Google Pay,48,Female,Austin,Texas,1
+10170,2023-03-01,1654,Smartphones Product 80,Electronics,Smartphones,819.66,1,819.66,0,0.0,819.66,Apple Pay,74,Non-binary,Fort Worth,Texas,3
+10171,2023-03-02,5438,Biographies Product 19,Books,Biographies,57.16,4,228.64,5,11.43,217.21,PayPal,58,Male,Peoria,Illinois,4
+10172,2023-03-02,7619,Furniture Product 67,Home & Kitchen,Furniture,59.52,1,59.52,10,5.95,53.57,Bank Transfer,68,Non-binary,Syracuse,New York,1
+10173,2023-03-03,2458,Laptops Product 42,Electronics,Laptops,1965.05,1,1965.05,0,0.0,1965.05,PayPal,39,Female,Springfield,Illinois,5
+10174,2023-03-03,7665,Tablets Product 88,Electronics,Tablets,1359.99,1,1359.99,15,204.0,1155.99,Apple Pay,18,Female,Fort Worth,Texas,5
+10175,2023-03-03,4306,Laptops Product 73,Electronics,Laptops,1409.74,1,1409.74,0,0.0,1409.74,Apple Pay,49,Non-binary,Houston,Texas,4
+10176,2023-03-03,4306,Bedding Product 4,Home & Kitchen,Bedding,387.41,1,387.41,0,0.0,387.41,PayPal,33,Non-binary,Chicago,Illinois,5
+10177,2023-03-04,4306,Cameras Product 78,Electronics,Cameras,1235.78,1,1235.78,15,185.37,1050.41,Apple Pay,46,Male,Buffalo,New York,5
+10178,2023-03-04,4306,Headphones Product 31,Electronics,Headphones,768.3,1,768.3,10,76.83,691.47,Bank Transfer,71,Male,Houston,Texas,4
+10179,2023-03-04,4306,Biographies Product 81,Books,Biographies,18.75,2,37.5,0,0.0,37.5,PayPal,43,Non-binary,Sacramento,California,5
+10180,2023-03-04,3937,Smartphones Product 69,Electronics,Smartphones,1753.43,1,1753.43,0,0.0,1753.43,Apple Pay,31,Non-binary,Los Angeles,California,4
+10181,2023-03-06,2956,Appliances Product 10,Home & Kitchen,Appliances,334.98,1,334.98,0,0.0,334.98,Apple Pay,40,Female,Miami,Florida,3
+10182,2023-03-06,6344,Smartphones Product 55,Electronics,Smartphones,756.32,2,1512.64,5,75.63,1437.01,Apple Pay,57,Non-binary,Chicago,Illinois,5
+10183,2023-03-06,4126,Smartphones Product 58,Electronics,Smartphones,1503.01,1,1503.01,10,150.3,1352.71,Credit Card,68,Male,Jacksonville,Florida,3
+10184,2023-03-07,4126,Laptops Product 93,Electronics,Laptops,266.58,1,266.58,0,0.0,266.58,Google Pay,28,Female,Syracuse,New York,3
+10185,2023-03-07,4126,Comics Product 37,Books,Comics,65.34,2,130.68,10,13.07,117.61,Google Pay,50,Non-binary,San Antonio,Texas,4
+10186,2023-03-08,4126,Equipment Product 82,Sports,Equipment,162.25,1,162.25,0,0.0,162.25,Bank Transfer,54,Female,San Antonio,Texas,4
+10187,2023-03-09,4126,Fiction Product 49,Books,Fiction,30.21,3,90.63,0,0.0,90.63,Apple Pay,43,Non-binary,Houston,Texas,4
+10188,2023-03-09,4126,Accessories Product 28,Clothing,Accessories,90.69,2,181.38,10,18.14,163.24,Credit Card,41,Male,Houston,Texas,2
+10189,2023-03-10,4126,Appliances Product 5,Home & Kitchen,Appliances,444.72,1,444.72,0,0.0,444.72,Google Pay,26,Female,Chicago,Illinois,5
+10190,2023-03-10,4126,Headphones Product 82,Electronics,Headphones,1870.5,2,3741.0,0,0.0,3741.0,Credit Card,19,Non-binary,Rochester,New York,4
+10191,2023-03-10,4126,Shoes Product 43,Clothing,Shoes,136.42,2,272.84,0,0.0,272.84,PayPal,52,Non-binary,Sacramento,California,5
+10192,2023-03-10,4126,Equipment Product 82,Sports,Equipment,323.24,2,646.48,0,0.0,646.48,Google Pay,73,Female,Los Angeles,California,4
+10193,2023-03-11,8567,Smartphones Product 12,Electronics,Smartphones,1956.58,1,1956.58,0,0.0,1956.58,Apple Pay,41,Male,Dallas,Texas,5
+10194,2023-03-11,4075,Tablets Product 59,Electronics,Tablets,261.73,1,261.73,0,0.0,261.73,PayPal,39,Male,San Jose,California,3
+10195,2023-03-13,4075,Headphones Product 64,Electronics,Headphones,1955.5,1,1955.5,5,97.78,1857.72,Credit Card,65,Female,Syracuse,New York,4
+10196,2023-03-13,4075,Tablets Product 45,Electronics,Tablets,794.66,1,794.66,5,39.73,754.93,Google Pay,34,Female,Jacksonville,Florida,5
+10197,2023-03-14,2579,Cameras Product 56,Electronics,Cameras,858.39,1,858.39,10,85.84,772.55,Credit Card,45,Non-binary,Springfield,Illinois,4
+10198,2023-03-15,2579,Furniture Product 91,Home & Kitchen,Furniture,634.12,1,634.12,0,0.0,634.12,Credit Card,24,Male,Los Angeles,California,5
+10199,2023-03-16,6042,Pants Product 10,Clothing,Pants,84.81,3,254.43,0,0.0,254.43,Google Pay,19,Male,Naperville,Illinois,4
+10200,2023-03-16,6042,Equipment Product 37,Sports,Equipment,336.05,1,336.05,10,33.61,302.44,Google Pay,48,Female,Miami,Florida,2
+10201,2023-03-16,5276,Non-fiction Product 38,Books,Non-fiction,68.08,2,136.16,5,6.81,129.35,Credit Card,18,Female,Houston,Texas,3
+10202,2023-03-16,5276,Pants Product 78,Clothing,Pants,59.76,3,179.28,0,0.0,179.28,Google Pay,70,Non-binary,Austin,Texas,3
+10203,2023-03-17,5276,Shoes Product 11,Clothing,Shoes,190.59,3,571.77,15,85.77,486.0,Google Pay,75,Female,Albany,New York,5
+10204,2023-03-17,5276,Pants Product 99,Clothing,Pants,79.82,5,399.1,0,0.0,399.1,Credit Card,35,Non-binary,Fort Worth,Texas,4
+10205,2023-03-17,5276,Cookware Product 8,Home & Kitchen,Cookware,622.2,1,622.2,0,0.0,622.2,Apple Pay,64,Non-binary,New York City,New York,3
+10206,2023-03-19,5276,Shirts Product 32,Clothing,Shirts,55.7,3,167.1,0,0.0,167.1,Apple Pay,56,Female,Rockford,Illinois,3
+10207,2023-03-19,5276,Bedding Product 43,Home & Kitchen,Bedding,577.19,1,577.19,5,28.86,548.33,Google Pay,42,Female,Rochester,New York,5
+10208,2023-03-19,5276,Pants Product 14,Clothing,Pants,45.8,2,91.6,15,13.74,77.86,Credit Card,65,Non-binary,Albany,New York,5
+10209,2023-03-21,5276,Cookware Product 100,Home & Kitchen,Cookware,674.22,1,674.22,0,0.0,674.22,Bank Transfer,36,Male,Rochester,New York,5
+10210,2023-03-22,5276,Pants Product 97,Clothing,Pants,52.4,4,209.6,0,0.0,209.6,Google Pay,62,Non-binary,San Francisco,California,2
+10211,2023-03-22,5276,Shoes Product 29,Clothing,Shoes,80.34,2,160.68,0,0.0,160.68,Google Pay,36,Non-binary,Chicago,Illinois,5
+10212,2023-03-22,5276,Apparel Product 98,Sports,Apparel,208.77,1,208.77,5,10.44,198.33,Credit Card,62,Non-binary,Peoria,Illinois,5
+10213,2023-03-22,5276,Non-fiction Product 100,Books,Non-fiction,90.77,1,90.77,10,9.08,81.69,PayPal,47,Male,San Antonio,Texas,5
+10214,2023-03-23,5276,Tablets Product 62,Electronics,Tablets,1316.41,1,1316.41,5,65.82,1250.59,Bank Transfer,22,Male,Austin,Texas,3
+10215,2023-03-24,5276,Footwear Product 35,Sports,Footwear,399.21,1,399.21,0,0.0,399.21,Google Pay,22,Non-binary,Houston,Texas,4
+10216,2023-03-24,5276,Bedding Product 3,Home & Kitchen,Bedding,89.13,1,89.13,10,8.91,80.22,PayPal,32,Non-binary,Fort Worth,Texas,2
+10217,2023-03-25,8912,Accessories Product 61,Sports,Accessories,298.56,1,298.56,20,59.71,238.85,PayPal,64,Male,Fort Worth,Texas,5
+10218,2023-03-26,2405,Fiction Product 85,Books,Fiction,46.97,3,140.91,0,0.0,140.91,Apple Pay,29,Female,New York City,New York,3
+10219,2023-03-27,5568,Pants Product 1,Clothing,Pants,165.78,1,165.78,0,0.0,165.78,Credit Card,72,Non-binary,Miami,Florida,5
+10220,2023-03-27,5568,Smartphones Product 57,Electronics,Smartphones,534.13,2,1068.26,0,0.0,1068.26,Bank Transfer,38,Female,Buffalo,New York,5
+10221,2023-03-27,5568,Accessories Product 75,Clothing,Accessories,98.29,2,196.58,0,0.0,196.58,Google Pay,35,Female,Tallahassee,Florida,5
+10222,2023-03-29,3944,Appliances Product 68,Home & Kitchen,Appliances,705.2,1,705.2,5,35.26,669.94,Google Pay,39,Non-binary,San Jose,California,4
+10223,2023-03-30,2893,Decor Product 24,Home & Kitchen,Decor,105.64,3,316.92,0,0.0,316.92,Google Pay,59,Male,Dallas,Texas,3
+10224,2023-03-30,2893,Dresses Product 69,Clothing,Dresses,124.66,2,249.32,0,0.0,249.32,PayPal,30,Female,Peoria,Illinois,2
+10225,2023-03-31,6127,Headphones Product 21,Electronics,Headphones,400.68,1,400.68,15,60.1,340.58,Google Pay,71,Female,Tampa,Florida,5
+10226,2023-03-31,5333,Non-fiction Product 20,Books,Non-fiction,43.86,5,219.3,0,0.0,219.3,Bank Transfer,56,Female,San Francisco,California,4
+10227,2023-03-31,1315,Fitness Product 96,Sports,Fitness,22.87,3,68.61,0,0.0,68.61,Bank Transfer,50,Male,Sacramento,California,5
+10228,2023-03-31,5580,Cookware Product 72,Home & Kitchen,Cookware,493.86,2,987.72,0,0.0,987.72,Bank Transfer,67,Female,Jacksonville,Florida,1
+10229,2023-04-01,5182,Laptops Product 89,Electronics,Laptops,1824.41,1,1824.41,15,273.66,1550.75,Apple Pay,59,Male,Miami,Florida,3
+10230,2023-04-02,5182,Accessories Product 69,Clothing,Accessories,140.82,1,140.82,0,0.0,140.82,Google Pay,55,Male,San Jose,California,3
+10231,2023-04-02,5182,Tablets Product 94,Electronics,Tablets,1946.13,2,3892.26,0,0.0,3892.26,Credit Card,59,Non-binary,San Antonio,Texas,4
+10232,2023-04-02,5182,Equipment Product 62,Sports,Equipment,61.55,1,61.55,0,0.0,61.55,Bank Transfer,41,Female,Austin,Texas,1
+10233,2023-04-02,5182,Tablets Product 57,Electronics,Tablets,1927.42,1,1927.42,0,0.0,1927.42,Google Pay,33,Male,San Diego,California,5
+10234,2023-04-03,5182,Cookware Product 84,Home & Kitchen,Cookware,420.48,2,840.96,15,126.14,714.82,Bank Transfer,56,Non-binary,Austin,Texas,4
+10235,2023-04-03,7254,Accessories Product 99,Clothing,Accessories,130.27,1,130.27,0,0.0,130.27,PayPal,73,Non-binary,Syracuse,New York,5
+10236,2023-04-04,5469,Decor Product 75,Home & Kitchen,Decor,832.41,1,832.41,0,0.0,832.41,Credit Card,26,Non-binary,Miami,Florida,5
+10237,2023-04-04,1109,Cookware Product 72,Home & Kitchen,Cookware,194.52,1,194.52,10,19.45,175.07,Google Pay,60,Male,Jacksonville,Florida,5
+10238,2023-04-05,1109,Non-fiction Product 62,Books,Non-fiction,68.09,4,272.36,10,27.24,245.12,Google Pay,44,Male,Los Angeles,California,5
+10239,2023-04-05,1109,Smartphones Product 34,Electronics,Smartphones,1570.87,1,1570.87,10,157.09,1413.78,Credit Card,58,Non-binary,Naperville,Illinois,4
+10240,2023-04-05,1109,Cameras Product 49,Electronics,Cameras,1806.93,1,1806.93,0,0.0,1806.93,Google Pay,28,Male,San Francisco,California,5
+10241,2023-04-05,1109,Cameras Product 37,Electronics,Cameras,435.88,1,435.88,5,21.79,414.09,Bank Transfer,43,Male,Los Angeles,California,5
+10242,2023-04-05,4582,Fitness Product 15,Sports,Fitness,352.57,1,352.57,5,17.63,334.94,PayPal,46,Male,San Jose,California,4
+10243,2023-04-06,9950,Apparel Product 53,Sports,Apparel,68.23,1,68.23,5,3.41,64.82,Google Pay,37,Non-binary,San Antonio,Texas,2
+10244,2023-04-06,1560,Decor Product 26,Home & Kitchen,Decor,733.94,2,1467.88,0,0.0,1467.88,Credit Card,57,Non-binary,Rochester,New York,5
+10245,2023-04-06,1967,Furniture Product 33,Home & Kitchen,Furniture,451.88,1,451.88,5,22.59,429.29,Google Pay,47,Male,Dallas,Texas,2
+10246,2023-04-06,2304,Bedding Product 18,Home & Kitchen,Bedding,366.55,1,366.55,5,18.33,348.22,Credit Card,73,Female,San Diego,California,3
+10247,2023-04-06,3061,Headphones Product 58,Electronics,Headphones,1993.82,1,1993.82,0,0.0,1993.82,Google Pay,67,Male,Springfield,Illinois,1
+10248,2023-04-07,4149,Equipment Product 93,Sports,Equipment,161.48,1,161.48,10,16.15,145.33,Apple Pay,27,Female,Rochester,New York,4
+10249,2023-04-07,4149,Shoes Product 33,Clothing,Shoes,67.88,2,135.76,5,6.79,128.97,PayPal,25,Male,Los Angeles,California,3
+10250,2023-04-08,4149,Pants Product 48,Clothing,Pants,187.56,2,375.12,0,0.0,375.12,PayPal,75,Non-binary,Syracuse,New York,4
+10251,2023-04-08,4149,Decor Product 82,Home & Kitchen,Decor,443.44,1,443.44,0,0.0,443.44,Apple Pay,49,Non-binary,Dallas,Texas,3
+10252,2023-04-08,4149,Cameras Product 18,Electronics,Cameras,369.69,1,369.69,0,0.0,369.69,PayPal,62,Male,San Diego,California,3
+10253,2023-04-09,4149,Smartphones Product 57,Electronics,Smartphones,1377.22,1,1377.22,5,68.86,1308.36,Apple Pay,23,Non-binary,Albany,New York,5
+10254,2023-04-09,4149,Fiction Product 46,Books,Fiction,25.89,1,25.89,0,0.0,25.89,Apple Pay,54,Male,Naperville,Illinois,3
+10255,2023-04-09,4149,Smartphones Product 1,Electronics,Smartphones,428.64,1,428.64,0,0.0,428.64,PayPal,39,Non-binary,Syracuse,New York,3
+10256,2023-04-09,4149,Appliances Product 29,Home & Kitchen,Appliances,998.67,1,998.67,0,0.0,998.67,Credit Card,23,Male,Los Angeles,California,5
+10257,2023-04-09,4149,Headphones Product 57,Electronics,Headphones,1968.11,2,3936.22,10,393.62,3542.6,Credit Card,18,Non-binary,Rochester,New York,5
+10258,2023-04-09,4149,Pants Product 87,Clothing,Pants,75.8,3,227.4,0,0.0,227.4,Apple Pay,36,Non-binary,Houston,Texas,1
+10259,2023-04-09,4149,Shoes Product 65,Clothing,Shoes,161.84,1,161.84,5,8.09,153.75,Bank Transfer,22,Non-binary,Dallas,Texas,2
+10260,2023-04-09,2932,Shirts Product 91,Clothing,Shirts,187.87,3,563.61,0,0.0,563.61,Bank Transfer,20,Non-binary,San Diego,California,5
+10261,2023-04-09,1514,Fiction Product 7,Books,Fiction,66.74,3,200.22,0,0.0,200.22,PayPal,60,Non-binary,Springfield,Illinois,3
+10262,2023-04-10,2495,Pants Product 40,Clothing,Pants,83.72,1,83.72,5,4.19,79.53,PayPal,67,Male,Springfield,Illinois,4
+10263,2023-04-10,3621,Appliances Product 77,Home & Kitchen,Appliances,615.58,2,1231.16,0,0.0,1231.16,Apple Pay,28,Male,Tampa,Florida,3
+10264,2023-04-10,3402,Cookware Product 47,Home & Kitchen,Cookware,360.23,2,720.46,0,0.0,720.46,Google Pay,24,Female,Orlando,Florida,5
+10265,2023-04-10,9496,Cookware Product 82,Home & Kitchen,Cookware,873.05,1,873.05,5,43.65,829.4,Apple Pay,68,Non-binary,Los Angeles,California,5
+10266,2023-04-11,2979,Accessories Product 50,Sports,Accessories,388.02,1,388.02,5,19.4,368.62,Credit Card,62,Male,Springfield,Illinois,5
+10267,2023-04-11,2979,Non-fiction Product 28,Books,Non-fiction,21.28,5,106.4,5,5.32,101.08,Google Pay,68,Female,San Antonio,Texas,2
+10268,2023-04-11,2979,Tablets Product 62,Electronics,Tablets,573.47,1,573.47,0,0.0,573.47,Credit Card,61,Female,Tallahassee,Florida,5
+10269,2023-04-11,8102,Smartphones Product 71,Electronics,Smartphones,740.38,1,740.38,0,0.0,740.38,PayPal,51,Male,Chicago,Illinois,5
+10270,2023-04-11,5619,Shoes Product 65,Clothing,Shoes,92.25,1,92.25,0,0.0,92.25,Apple Pay,75,Male,Buffalo,New York,3
+10271,2023-04-13,5619,Appliances Product 2,Home & Kitchen,Appliances,624.55,1,624.55,5,31.23,593.32,Bank Transfer,30,Male,Tallahassee,Florida,1
+10272,2023-04-13,5619,Smartphones Product 79,Electronics,Smartphones,1348.16,1,1348.16,0,0.0,1348.16,Credit Card,47,Female,Houston,Texas,3
+10273,2023-04-13,5619,Bedding Product 52,Home & Kitchen,Bedding,965.02,1,965.02,10,96.5,868.52,Credit Card,26,Female,Springfield,Illinois,1
+10274,2023-04-13,5619,Decor Product 91,Home & Kitchen,Decor,140.77,1,140.77,0,0.0,140.77,PayPal,72,Non-binary,Syracuse,New York,5
+10275,2023-04-14,5619,Accessories Product 60,Clothing,Accessories,91.45,1,91.45,0,0.0,91.45,PayPal,34,Non-binary,Houston,Texas,2
+10276,2023-04-14,5619,Biographies Product 97,Books,Biographies,34.78,1,34.78,5,1.74,33.04,PayPal,21,Female,Tallahassee,Florida,4
+10277,2023-04-15,5619,Smartphones Product 90,Electronics,Smartphones,287.56,1,287.56,5,14.38,273.18,Bank Transfer,19,Non-binary,Los Angeles,California,5
+10278,2023-04-15,5619,Tablets Product 32,Electronics,Tablets,1913.46,1,1913.46,0,0.0,1913.46,Bank Transfer,75,Female,Miami,Florida,5
+10279,2023-04-16,1603,Biographies Product 85,Books,Biographies,51.55,2,103.1,0,0.0,103.1,PayPal,34,Male,Sacramento,California,1
+10280,2023-04-16,8204,Cookware Product 67,Home & Kitchen,Cookware,384.29,2,768.58,15,115.29,653.29,PayPal,22,Female,Naperville,Illinois,2
+10281,2023-04-16,7764,Appliances Product 56,Home & Kitchen,Appliances,488.6,2,977.2,10,97.72,879.48,Credit Card,48,Female,Syracuse,New York,5
+10282,2023-04-17,7764,Dresses Product 8,Clothing,Dresses,63.56,4,254.24,5,12.71,241.53,Bank Transfer,46,Non-binary,Tampa,Florida,5
+10283,2023-04-17,5634,Tablets Product 1,Electronics,Tablets,577.35,1,577.35,0,0.0,577.35,Bank Transfer,75,Male,Miami,Florida,5
+10284,2023-04-18,8447,Educational Product 84,Books,Educational,70.95,2,141.9,0,0.0,141.9,Google Pay,39,Female,Tallahassee,Florida,4
+10285,2023-04-18,8447,Non-fiction Product 59,Books,Non-fiction,38.71,1,38.71,10,3.87,34.84,Bank Transfer,27,Male,Fort Worth,Texas,2
+10286,2023-04-19,8447,Cookware Product 100,Home & Kitchen,Cookware,143.27,2,286.54,0,0.0,286.54,Credit Card,63,Female,New York City,New York,5
+10287,2023-04-19,4367,Shoes Product 14,Clothing,Shoes,22.47,3,67.41,0,0.0,67.41,Apple Pay,36,Male,Fort Worth,Texas,5
+10288,2023-04-21,4571,Cookware Product 18,Home & Kitchen,Cookware,63.57,4,254.28,20,50.86,203.42,Google Pay,39,Non-binary,Syracuse,New York,5
+10289,2023-04-21,4961,Shirts Product 32,Clothing,Shirts,110.64,1,110.64,0,0.0,110.64,Credit Card,72,Male,San Jose,California,3
+10290,2023-04-21,4961,Cameras Product 6,Electronics,Cameras,1360.38,1,1360.38,0,0.0,1360.38,Credit Card,29,Male,Chicago,Illinois,3
+10291,2023-04-21,4961,Apparel Product 6,Sports,Apparel,180.79,2,361.58,0,0.0,361.58,Google Pay,29,Non-binary,Orlando,Florida,3
+10292,2023-04-21,4961,Tablets Product 54,Electronics,Tablets,1473.42,2,2946.84,5,147.34,2799.5,Apple Pay,74,Male,San Francisco,California,3
+10293,2023-04-22,4961,Equipment Product 15,Sports,Equipment,86.5,2,173.0,0,0.0,173.0,Google Pay,24,Non-binary,Rockford,Illinois,4
+10294,2023-04-22,4961,Shirts Product 85,Clothing,Shirts,137.14,1,137.14,0,0.0,137.14,PayPal,31,Non-binary,Jacksonville,Florida,5
+10295,2023-04-22,4961,Cameras Product 35,Electronics,Cameras,1798.53,1,1798.53,0,0.0,1798.53,PayPal,75,Female,Jacksonville,Florida,4
+10296,2023-04-22,4961,Bedding Product 2,Home & Kitchen,Bedding,914.59,1,914.59,0,0.0,914.59,PayPal,52,Non-binary,Syracuse,New York,5
+10297,2023-04-23,5521,Equipment Product 50,Sports,Equipment,34.82,5,174.1,0,0.0,174.1,Google Pay,44,Non-binary,Peoria,Illinois,4
+10298,2023-04-23,5521,Fiction Product 79,Books,Fiction,47.22,2,94.44,10,9.44,85.0,Google Pay,45,Non-binary,Rochester,New York,5
+10299,2023-04-23,5521,Fiction Product 85,Books,Fiction,62.81,1,62.81,0,0.0,62.81,PayPal,26,Female,Springfield,Illinois,1
+10300,2023-04-23,5521,Appliances Product 80,Home & Kitchen,Appliances,121.79,1,121.79,0,0.0,121.79,Google Pay,55,Female,San Diego,California,4
+10301,2023-04-23,5521,Cookware Product 35,Home & Kitchen,Cookware,750.63,1,750.63,0,0.0,750.63,PayPal,19,Non-binary,Los Angeles,California,3
+10302,2023-04-23,5334,Biographies Product 16,Books,Biographies,30.52,3,91.56,0,0.0,91.56,Apple Pay,35,Non-binary,Tallahassee,Florida,4
+10303,2023-04-23,5334,Cameras Product 51,Electronics,Cameras,1329.91,1,1329.91,0,0.0,1329.91,PayPal,65,Male,Chicago,Illinois,3
+10304,2023-04-24,7613,Furniture Product 83,Home & Kitchen,Furniture,574.54,1,574.54,5,28.73,545.81,Bank Transfer,43,Male,Naperville,Illinois,5
+10305,2023-04-24,1751,Cameras Product 58,Electronics,Cameras,1675.73,1,1675.73,0,0.0,1675.73,PayPal,46,Female,Peoria,Illinois,1
+10306,2023-04-25,2615,Footwear Product 53,Sports,Footwear,108.6,1,108.6,5,5.43,103.17,Apple Pay,47,Non-binary,Peoria,Illinois,3
+10307,2023-04-26,5977,Fitness Product 6,Sports,Fitness,344.38,2,688.76,0,0.0,688.76,Credit Card,32,Male,Fort Worth,Texas,3
+10308,2023-04-26,5977,Headphones Product 38,Electronics,Headphones,1053.15,1,1053.15,0,0.0,1053.15,Google Pay,64,Non-binary,Naperville,Illinois,5
+10309,2023-04-26,5977,Non-fiction Product 34,Books,Non-fiction,84.18,3,252.54,5,12.63,239.91,Google Pay,57,Non-binary,Chicago,Illinois,5
+10310,2023-04-27,5977,Accessories Product 39,Sports,Accessories,146.92,3,440.76,0,0.0,440.76,Apple Pay,33,Female,Buffalo,New York,1
+10311,2023-04-27,4350,Headphones Product 85,Electronics,Headphones,1878.7,1,1878.7,0,0.0,1878.7,Google Pay,25,Non-binary,Tampa,Florida,3
+10312,2023-04-28,1538,Bedding Product 1,Home & Kitchen,Bedding,628.81,2,1257.62,5,62.88,1194.74,Google Pay,56,Male,Dallas,Texas,4
+10313,2023-04-28,1538,Equipment Product 46,Sports,Equipment,404.84,2,809.68,0,0.0,809.68,Credit Card,67,Non-binary,Albany,New York,5
+10314,2023-04-28,1538,Tablets Product 23,Electronics,Tablets,966.78,2,1933.56,0,0.0,1933.56,Bank Transfer,33,Female,Miami,Florida,3
+10315,2023-04-28,1538,Decor Product 1,Home & Kitchen,Decor,739.1,2,1478.2,0,0.0,1478.2,PayPal,24,Male,Springfield,Illinois,3
+10316,2023-04-29,1538,Shoes Product 70,Clothing,Shoes,23.89,1,23.89,0,0.0,23.89,PayPal,21,Non-binary,Rochester,New York,5
+10317,2023-04-29,1538,Fitness Product 83,Sports,Fitness,202.0,1,202.0,5,10.1,191.9,Google Pay,43,Male,San Antonio,Texas,3
+10318,2023-04-30,1538,Apparel Product 5,Sports,Apparel,466.75,3,1400.25,0,0.0,1400.25,Apple Pay,63,Male,Tampa,Florida,4
+10319,2023-04-30,1538,Fitness Product 79,Sports,Fitness,393.65,2,787.3,0,0.0,787.3,Bank Transfer,65,Female,Jacksonville,Florida,5
+10320,2023-05-01,1538,Appliances Product 82,Home & Kitchen,Appliances,48.93,1,48.93,0,0.0,48.93,Bank Transfer,70,Non-binary,New York City,New York,5
+10321,2023-05-01,1538,Footwear Product 90,Sports,Footwear,170.02,1,170.02,0,0.0,170.02,Credit Card,31,Non-binary,San Francisco,California,5
+10322,2023-05-02,1538,Accessories Product 67,Sports,Accessories,35.38,2,70.76,0,0.0,70.76,Google Pay,75,Male,Orlando,Florida,2
+10323,2023-05-02,1538,Dresses Product 69,Clothing,Dresses,51.28,2,102.56,0,0.0,102.56,PayPal,37,Non-binary,New York City,New York,5
+10324,2023-05-02,1538,Footwear Product 79,Sports,Footwear,379.48,1,379.48,5,18.97,360.51,Credit Card,46,Non-binary,Houston,Texas,4
+10325,2023-05-02,1538,Tablets Product 54,Electronics,Tablets,369.13,1,369.13,0,0.0,369.13,PayPal,26,Non-binary,Rochester,New York,4
+10326,2023-05-02,1538,Decor Product 72,Home & Kitchen,Decor,430.92,1,430.92,5,21.55,409.37,Bank Transfer,46,Non-binary,Springfield,Illinois,3
+10327,2023-05-02,1538,Shirts Product 49,Clothing,Shirts,169.57,1,169.57,10,16.96,152.61,Google Pay,44,Male,Albany,New York,3
+10328,2023-05-03,1538,Laptops Product 32,Electronics,Laptops,1941.14,2,3882.28,5,194.11,3688.17,Bank Transfer,33,Female,Chicago,Illinois,5
+10329,2023-05-04,1538,Cameras Product 79,Electronics,Cameras,1147.76,1,1147.76,0,0.0,1147.76,PayPal,35,Male,Jacksonville,Florida,4
+10330,2023-05-04,1538,Non-fiction Product 38,Books,Non-fiction,96.11,1,96.11,0,0.0,96.11,Apple Pay,43,Female,Peoria,Illinois,4
+10331,2023-05-05,1538,Shirts Product 63,Clothing,Shirts,66.29,3,198.87,0,0.0,198.87,Google Pay,33,Non-binary,Rockford,Illinois,3
+10332,2023-05-06,1538,Footwear Product 84,Sports,Footwear,466.51,1,466.51,5,23.33,443.18,Apple Pay,74,Non-binary,Dallas,Texas,3
+10333,2023-05-06,1538,Headphones Product 18,Electronics,Headphones,568.73,1,568.73,0,0.0,568.73,Credit Card,71,Male,New York City,New York,3
+10334,2023-05-06,1538,Pants Product 73,Clothing,Pants,161.4,2,322.8,0,0.0,322.8,Apple Pay,32,Male,Peoria,Illinois,3
+10335,2023-05-06,5413,Cookware Product 56,Home & Kitchen,Cookware,852.7,1,852.7,0,0.0,852.7,Bank Transfer,75,Male,Austin,Texas,4
+10336,2023-05-06,5413,Apparel Product 30,Sports,Apparel,218.56,1,218.56,0,0.0,218.56,PayPal,32,Male,San Antonio,Texas,3
+10337,2023-05-06,5413,Dresses Product 40,Clothing,Dresses,112.8,1,112.8,0,0.0,112.8,Apple Pay,38,Non-binary,Naperville,Illinois,3
+10338,2023-05-07,6145,Comics Product 59,Books,Comics,29.47,2,58.94,10,5.89,53.05,Credit Card,61,Male,Naperville,Illinois,3
+10339,2023-05-07,6548,Accessories Product 77,Sports,Accessories,193.97,3,581.91,0,0.0,581.91,Credit Card,42,Female,Albany,New York,4
+10340,2023-05-07,6548,Comics Product 1,Books,Comics,34.93,2,69.86,0,0.0,69.86,Apple Pay,52,Female,Los Angeles,California,1
+10341,2023-05-08,6548,Dresses Product 72,Clothing,Dresses,171.05,1,171.05,0,0.0,171.05,Credit Card,38,Female,Syracuse,New York,5
+10342,2023-05-08,4265,Tablets Product 98,Electronics,Tablets,1433.97,2,2867.94,15,430.19,2437.75,Apple Pay,43,Male,Syracuse,New York,1
+10343,2023-05-08,4265,Apparel Product 60,Sports,Apparel,49.27,1,49.27,15,7.39,41.88,PayPal,18,Non-binary,Sacramento,California,1
+10344,2023-05-08,2031,Cameras Product 14,Electronics,Cameras,1112.36,2,2224.72,10,222.47,2002.25,Apple Pay,64,Male,Rochester,New York,5
+10345,2023-05-09,6306,Apparel Product 4,Sports,Apparel,347.64,2,695.28,0,0.0,695.28,Bank Transfer,50,Non-binary,Dallas,Texas,4
+10346,2023-05-09,1836,Appliances Product 32,Home & Kitchen,Appliances,878.35,1,878.35,0,0.0,878.35,PayPal,33,Male,Albany,New York,5
+10347,2023-05-09,4536,Equipment Product 41,Sports,Equipment,303.79,1,303.79,0,0.0,303.79,Google Pay,37,Non-binary,Dallas,Texas,5
+10348,2023-05-10,9703,Fitness Product 58,Sports,Fitness,50.62,2,101.24,5,5.06,96.18,PayPal,44,Non-binary,Naperville,Illinois,3
+10349,2023-05-10,9703,Footwear Product 19,Sports,Footwear,319.48,1,319.48,0,0.0,319.48,Bank Transfer,39,Male,Peoria,Illinois,4
+10350,2023-05-11,9703,Pants Product 91,Clothing,Pants,81.07,1,81.07,0,0.0,81.07,Google Pay,50,Non-binary,Chicago,Illinois,4
+10351,2023-05-11,9703,Equipment Product 80,Sports,Equipment,203.24,2,406.48,5,20.32,386.16,Bank Transfer,63,Non-binary,Chicago,Illinois,3
+10352,2023-05-11,9703,Shirts Product 86,Clothing,Shirts,41.67,1,41.67,10,4.17,37.5,Credit Card,65,Male,Sacramento,California,5
+10353,2023-05-11,2791,Bedding Product 46,Home & Kitchen,Bedding,908.26,1,908.26,0,0.0,908.26,Apple Pay,66,Female,San Francisco,California,4
+10354,2023-05-12,2791,Fiction Product 57,Books,Fiction,44.41,1,44.41,0,0.0,44.41,Google Pay,27,Female,Rochester,New York,4
+10355,2023-05-13,5084,Accessories Product 20,Sports,Accessories,478.13,2,956.26,0,0.0,956.26,Bank Transfer,46,Female,Chicago,Illinois,4
+10356,2023-05-13,9246,Equipment Product 100,Sports,Equipment,109.3,1,109.3,5,5.46,103.84,Apple Pay,29,Male,Jacksonville,Florida,4
+10357,2023-05-13,2822,Accessories Product 47,Sports,Accessories,162.79,1,162.79,15,24.42,138.37,PayPal,74,Non-binary,Dallas,Texas,2
+10358,2023-05-13,2822,Accessories Product 15,Clothing,Accessories,188.56,1,188.56,5,9.43,179.13,Apple Pay,48,Male,Albany,New York,4
+10359,2023-05-13,2822,Pants Product 45,Clothing,Pants,106.66,1,106.66,5,5.33,101.33,Apple Pay,49,Male,Austin,Texas,4
+10360,2023-05-14,3058,Accessories Product 50,Sports,Accessories,372.0,1,372.0,15,55.8,316.2,Bank Transfer,22,Female,Chicago,Illinois,4
+10361,2023-05-14,3058,Shoes Product 60,Clothing,Shoes,161.3,1,161.3,10,16.13,145.17,Google Pay,46,Non-binary,San Francisco,California,1
+10362,2023-05-14,3058,Cameras Product 19,Electronics,Cameras,408.88,1,408.88,0,0.0,408.88,Credit Card,44,Female,Rochester,New York,3
+10363,2023-05-15,6720,Pants Product 77,Clothing,Pants,45.74,4,182.96,0,0.0,182.96,PayPal,40,Male,Austin,Texas,5
+10364,2023-05-15,2911,Shirts Product 56,Clothing,Shirts,81.07,2,162.14,0,0.0,162.14,Google Pay,29,Female,San Jose,California,5
+10365,2023-05-15,8196,Shoes Product 44,Clothing,Shoes,117.87,1,117.87,0,0.0,117.87,Google Pay,24,Non-binary,San Francisco,California,2
+10366,2023-05-16,8196,Pants Product 46,Clothing,Pants,135.95,1,135.95,0,0.0,135.95,PayPal,33,Female,Springfield,Illinois,3
+10367,2023-05-16,7321,Headphones Product 45,Electronics,Headphones,885.08,1,885.08,0,0.0,885.08,Google Pay,26,Male,Dallas,Texas,4
+10368,2023-05-16,2923,Cameras Product 47,Electronics,Cameras,747.38,1,747.38,5,37.37,710.01,Google Pay,71,Female,Chicago,Illinois,5
+10369,2023-05-17,2923,Accessories Product 87,Sports,Accessories,178.3,2,356.6,5,17.83,338.77,PayPal,74,Male,Rochester,New York,3
+10370,2023-05-17,2923,Shoes Product 50,Clothing,Shoes,129.37,1,129.37,5,6.47,122.9,Credit Card,45,Female,Syracuse,New York,5
+10371,2023-05-18,2923,Accessories Product 74,Clothing,Accessories,51.82,3,155.46,0,0.0,155.46,Credit Card,49,Non-binary,Tampa,Florida,3
+10372,2023-05-18,2923,Comics Product 48,Books,Comics,83.0,2,166.0,5,8.3,157.7,Bank Transfer,75,Female,Miami,Florida,4
+10373,2023-05-19,2923,Shoes Product 20,Clothing,Shoes,17.38,3,52.14,10,5.21,46.93,PayPal,45,Male,Naperville,Illinois,5
+10374,2023-05-19,2923,Accessories Product 73,Sports,Accessories,139.94,2,279.88,10,27.99,251.89,PayPal,67,Non-binary,Dallas,Texas,5
+10375,2023-05-20,2923,Equipment Product 51,Sports,Equipment,166.41,1,166.41,5,8.32,158.09,Bank Transfer,53,Non-binary,Dallas,Texas,2
+10376,2023-05-20,2923,Smartphones Product 86,Electronics,Smartphones,307.93,2,615.86,5,30.79,585.07,Apple Pay,36,Non-binary,Peoria,Illinois,3
+10377,2023-05-21,2923,Dresses Product 70,Clothing,Dresses,159.16,2,318.32,0,0.0,318.32,Credit Card,67,Non-binary,Orlando,Florida,4
+10378,2023-05-21,2923,Equipment Product 29,Sports,Equipment,458.39,1,458.39,0,0.0,458.39,Google Pay,34,Non-binary,Tallahassee,Florida,5
+10379,2023-05-22,2923,Apparel Product 55,Sports,Apparel,410.66,2,821.32,0,0.0,821.32,Apple Pay,50,Male,Orlando,Florida,2
+10380,2023-05-22,2923,Furniture Product 89,Home & Kitchen,Furniture,815.45,1,815.45,0,0.0,815.45,PayPal,29,Non-binary,San Jose,California,4
+10381,2023-05-23,2923,Comics Product 56,Books,Comics,43.43,2,86.86,5,4.34,82.52,PayPal,67,Female,Fort Worth,Texas,3
+10382,2023-05-23,7897,Cameras Product 64,Electronics,Cameras,231.47,2,462.94,5,23.15,439.79,PayPal,26,Female,Tampa,Florida,5
+10383,2023-05-23,7897,Equipment Product 9,Sports,Equipment,270.41,1,270.41,0,0.0,270.41,Credit Card,58,Female,Rockford,Illinois,5
+10384,2023-05-24,7897,Dresses Product 2,Clothing,Dresses,98.46,4,393.84,0,0.0,393.84,Google Pay,59,Male,Miami,Florida,5
+10385,2023-05-24,7897,Footwear Product 62,Sports,Footwear,122.09,2,244.18,0,0.0,244.18,Credit Card,63,Female,Houston,Texas,5
+10386,2023-05-24,7897,Non-fiction Product 78,Books,Non-fiction,42.78,1,42.78,5,2.14,40.64,PayPal,48,Male,Miami,Florida,3
+10387,2023-05-24,7897,Fiction Product 48,Books,Fiction,70.77,4,283.08,10,28.31,254.77,Apple Pay,27,Male,Fort Worth,Texas,3
+10388,2023-05-24,7897,Furniture Product 9,Home & Kitchen,Furniture,518.55,2,1037.1,15,155.56,881.54,Google Pay,44,Male,San Jose,California,4
+10389,2023-05-24,7897,Pants Product 39,Clothing,Pants,81.99,3,245.97,0,0.0,245.97,Apple Pay,38,Male,Fort Worth,Texas,5
+10390,2023-05-24,7897,Smartphones Product 77,Electronics,Smartphones,1295.75,1,1295.75,0,0.0,1295.75,Apple Pay,41,Non-binary,Rockford,Illinois,5
+10391,2023-05-25,7897,Pants Product 52,Clothing,Pants,120.04,3,360.12,5,18.01,342.11,Credit Card,33,Male,Sacramento,California,2
+10392,2023-05-25,7897,Tablets Product 52,Electronics,Tablets,1120.47,2,2240.94,0,0.0,2240.94,Apple Pay,53,Female,Jacksonville,Florida,1
+10393,2023-05-25,7897,Apparel Product 13,Sports,Apparel,203.3,2,406.6,15,60.99,345.61,Bank Transfer,33,Female,Springfield,Illinois,4
+10394,2023-05-25,7897,Shirts Product 29,Clothing,Shirts,23.12,1,23.12,0,0.0,23.12,Credit Card,38,Non-binary,Tallahassee,Florida,4
+10395,2023-05-25,7897,Smartphones Product 79,Electronics,Smartphones,488.6,1,488.6,5,24.43,464.17,Apple Pay,48,Female,Buffalo,New York,4
+10396,2023-05-26,7897,Apparel Product 38,Sports,Apparel,168.34,2,336.68,0,0.0,336.68,Bank Transfer,42,Non-binary,Rockford,Illinois,2
+10397,2023-05-26,7897,Footwear Product 80,Sports,Footwear,495.68,1,495.68,10,49.57,446.11,Credit Card,65,Non-binary,Rockford,Illinois,1
+10398,2023-05-26,7897,Equipment Product 21,Sports,Equipment,230.25,1,230.25,5,11.51,218.74,Credit Card,46,Male,Orlando,Florida,3
+10399,2023-05-27,7897,Apparel Product 77,Sports,Apparel,151.23,3,453.69,0,0.0,453.69,Credit Card,53,Female,Houston,Texas,4
+10400,2023-05-27,7897,Laptops Product 58,Electronics,Laptops,484.54,1,484.54,0,0.0,484.54,Apple Pay,52,Female,Tallahassee,Florida,4
+10401,2023-05-27,7897,Dresses Product 79,Clothing,Dresses,80.03,3,240.09,0,0.0,240.09,PayPal,47,Non-binary,Syracuse,New York,5
+10402,2023-05-27,7897,Equipment Product 16,Sports,Equipment,171.16,1,171.16,0,0.0,171.16,PayPal,31,Male,Rockford,Illinois,5
+10403,2023-05-27,7897,Biographies Product 91,Books,Biographies,17.16,2,34.32,0,0.0,34.32,Google Pay,27,Non-binary,San Antonio,Texas,4
+10404,2023-05-27,7897,Headphones Product 27,Electronics,Headphones,1709.67,1,1709.67,5,85.48,1624.19,PayPal,52,Non-binary,San Francisco,California,3
+10405,2023-05-28,7897,Equipment Product 65,Sports,Equipment,459.39,1,459.39,0,0.0,459.39,Credit Card,67,Female,Fort Worth,Texas,3
+10406,2023-05-28,7897,Accessories Product 32,Clothing,Accessories,89.79,2,179.58,0,0.0,179.58,Apple Pay,46,Male,Rochester,New York,5
+10407,2023-05-28,7897,Shoes Product 59,Clothing,Shoes,194.98,1,194.98,0,0.0,194.98,Apple Pay,68,Female,Rockford,Illinois,2
+10408,2023-05-29,7897,Bedding Product 30,Home & Kitchen,Bedding,835.45,1,835.45,15,125.32,710.13,Bank Transfer,29,Male,Jacksonville,Florida,5
+10409,2023-05-30,7897,Furniture Product 9,Home & Kitchen,Furniture,128.81,1,128.81,5,6.44,122.37,PayPal,51,Male,Buffalo,New York,5
+10410,2023-05-30,7897,Bedding Product 74,Home & Kitchen,Bedding,252.92,1,252.92,10,25.29,227.63,Bank Transfer,28,Non-binary,Fort Worth,Texas,5
+10411,2023-05-30,7897,Tablets Product 89,Electronics,Tablets,332.46,1,332.46,10,33.25,299.21,Apple Pay,69,Male,Syracuse,New York,4
+10412,2023-05-31,4555,Apparel Product 96,Sports,Apparel,313.14,3,939.42,0,0.0,939.42,Apple Pay,20,Female,Sacramento,California,5
+10413,2023-05-31,5779,Pants Product 90,Clothing,Pants,83.98,3,251.94,0,0.0,251.94,Bank Transfer,75,Female,San Antonio,Texas,4
+10414,2023-05-31,7660,Cameras Product 2,Electronics,Cameras,738.88,2,1477.76,0,0.0,1477.76,Apple Pay,27,Non-binary,Sacramento,California,5
+10415,2023-05-31,7660,Fitness Product 73,Sports,Fitness,34.96,1,34.96,0,0.0,34.96,PayPal,60,Male,Fort Worth,Texas,5
+10416,2023-05-31,7660,Fitness Product 47,Sports,Fitness,415.83,2,831.66,0,0.0,831.66,Credit Card,70,Non-binary,Orlando,Florida,5
+10417,2023-06-01,7660,Accessories Product 26,Sports,Accessories,241.68,1,241.68,5,12.08,229.6,PayPal,21,Female,Peoria,Illinois,3
+10418,2023-06-01,7660,Fitness Product 39,Sports,Fitness,409.03,3,1227.09,5,61.35,1165.74,Bank Transfer,50,Male,Fort Worth,Texas,3
+10419,2023-06-01,7660,Fiction Product 60,Books,Fiction,75.23,1,75.23,0,0.0,75.23,Bank Transfer,36,Non-binary,Rochester,New York,4
+10420,2023-06-01,7660,Decor Product 36,Home & Kitchen,Decor,112.34,1,112.34,5,5.62,106.72,Credit Card,42,Male,Los Angeles,California,1
+10421,2023-06-01,7660,Cameras Product 20,Electronics,Cameras,637.31,1,637.31,0,0.0,637.31,Google Pay,57,Female,San Jose,California,2
+10422,2023-06-01,7660,Shirts Product 30,Clothing,Shirts,123.75,1,123.75,0,0.0,123.75,Credit Card,35,Male,Buffalo,New York,3
+10423,2023-06-02,7660,Dresses Product 81,Clothing,Dresses,179.4,1,179.4,0,0.0,179.4,Google Pay,45,Non-binary,San Diego,California,4
+10424,2023-06-02,7660,Shoes Product 59,Clothing,Shoes,191.02,1,191.02,0,0.0,191.02,Bank Transfer,59,Non-binary,Houston,Texas,2
+10425,2023-06-03,7660,Accessories Product 26,Sports,Accessories,58.29,2,116.58,5,5.83,110.75,PayPal,37,Male,Austin,Texas,3
+10426,2023-06-03,7660,Appliances Product 60,Home & Kitchen,Appliances,194.75,1,194.75,0,0.0,194.75,Bank Transfer,62,Female,Dallas,Texas,5
+10427,2023-06-03,2643,Cameras Product 31,Electronics,Cameras,585.13,1,585.13,15,87.77,497.36,Credit Card,36,Non-binary,Sacramento,California,2
+10428,2023-06-04,5538,Shirts Product 78,Clothing,Shirts,164.13,2,328.26,10,32.83,295.43,Google Pay,55,Male,San Jose,California,3
+10429,2023-06-04,2658,Comics Product 43,Books,Comics,86.87,4,347.48,15,52.12,295.36,Apple Pay,21,Female,Jacksonville,Florida,4
+10430,2023-06-05,2658,Headphones Product 43,Electronics,Headphones,1160.56,2,2321.12,15,348.17,1972.95,Credit Card,58,Non-binary,San Francisco,California,2
+10431,2023-06-06,2658,Footwear Product 29,Sports,Footwear,480.08,2,960.16,10,96.02,864.14,PayPal,50,Non-binary,Chicago,Illinois,4
+10432,2023-06-07,2658,Cookware Product 20,Home & Kitchen,Cookware,187.36,1,187.36,10,18.74,168.62,Bank Transfer,52,Female,Peoria,Illinois,2
+10433,2023-06-07,2658,Bedding Product 29,Home & Kitchen,Bedding,183.29,2,366.58,0,0.0,366.58,Google Pay,62,Male,New York City,New York,4
+10434,2023-06-07,8028,Decor Product 31,Home & Kitchen,Decor,77.44,1,77.44,0,0.0,77.44,Google Pay,38,Non-binary,San Antonio,Texas,2
+10435,2023-06-09,8028,Footwear Product 54,Sports,Footwear,370.69,1,370.69,5,18.53,352.16,Apple Pay,42,Male,San Jose,California,2
+10436,2023-06-09,8028,Dresses Product 65,Clothing,Dresses,118.53,1,118.53,0,0.0,118.53,Apple Pay,62,Male,San Francisco,California,5
+10437,2023-06-09,8028,Biographies Product 44,Books,Biographies,66.75,5,333.75,10,33.38,300.37,PayPal,64,Male,Los Angeles,California,4
+10438,2023-06-09,8028,Decor Product 32,Home & Kitchen,Decor,836.93,1,836.93,5,41.85,795.08,PayPal,35,Non-binary,Houston,Texas,5
+10439,2023-06-09,7941,Shoes Product 45,Clothing,Shoes,44.76,4,179.04,0,0.0,179.04,Google Pay,27,Female,Albany,New York,1
+10440,2023-06-09,1692,Apparel Product 90,Sports,Apparel,478.8,1,478.8,0,0.0,478.8,Google Pay,41,Male,Springfield,Illinois,4
+10441,2023-06-09,1692,Apparel Product 31,Sports,Apparel,194.35,1,194.35,10,19.44,174.91,PayPal,68,Female,Houston,Texas,5
+10442,2023-06-10,1692,Fiction Product 82,Books,Fiction,89.56,1,89.56,10,8.96,80.6,Google Pay,28,Male,San Francisco,California,4
+10443,2023-06-10,8985,Equipment Product 33,Sports,Equipment,180.12,1,180.12,5,9.01,171.11,PayPal,57,Male,Orlando,Florida,3
+10444,2023-06-10,6266,Fitness Product 24,Sports,Fitness,429.2,2,858.4,20,171.68,686.72,Google Pay,44,Female,Sacramento,California,2
+10445,2023-06-10,6266,Equipment Product 35,Sports,Equipment,275.87,2,551.74,5,27.59,524.15,Bank Transfer,47,Non-binary,Albany,New York,5
+10446,2023-06-10,6266,Fitness Product 85,Sports,Fitness,445.96,1,445.96,0,0.0,445.96,Credit Card,40,Non-binary,Miami,Florida,4
+10447,2023-06-11,1564,Biographies Product 31,Books,Biographies,59.85,4,239.4,0,0.0,239.4,Google Pay,46,Male,New York City,New York,4
+10448,2023-06-11,1564,Non-fiction Product 31,Books,Non-fiction,81.1,2,162.2,0,0.0,162.2,Apple Pay,50,Female,Fort Worth,Texas,4
+10449,2023-06-12,1564,Non-fiction Product 5,Books,Non-fiction,35.72,2,71.44,0,0.0,71.44,Bank Transfer,28,Male,Peoria,Illinois,5
+10450,2023-06-12,1564,Apparel Product 75,Sports,Apparel,492.3,1,492.3,0,0.0,492.3,Google Pay,58,Female,Syracuse,New York,3
+10451,2023-06-12,1899,Headphones Product 26,Electronics,Headphones,1734.69,1,1734.69,0,0.0,1734.69,Credit Card,49,Male,Rockford,Illinois,3
+10452,2023-06-12,8277,Fitness Product 47,Sports,Fitness,485.4,1,485.4,0,0.0,485.4,PayPal,52,Male,San Jose,California,3
+10453,2023-06-13,3111,Accessories Product 32,Sports,Accessories,460.02,2,920.04,0,0.0,920.04,Google Pay,53,Male,Buffalo,New York,4
+10454,2023-06-13,8274,Laptops Product 52,Electronics,Laptops,1788.84,1,1788.84,0,0.0,1788.84,Bank Transfer,20,Male,Tallahassee,Florida,5
+10455,2023-06-13,8274,Fitness Product 80,Sports,Fitness,231.11,2,462.22,5,23.11,439.11,Google Pay,51,Male,Orlando,Florida,4
+10456,2023-06-14,8274,Cameras Product 70,Electronics,Cameras,951.61,1,951.61,5,47.58,904.03,Bank Transfer,73,Female,New York City,New York,5
+10457,2023-06-14,2384,Shirts Product 86,Clothing,Shirts,121.31,1,121.31,0,0.0,121.31,PayPal,53,Female,Rockford,Illinois,2
+10458,2023-06-14,4945,Footwear Product 50,Sports,Footwear,196.63,2,393.26,5,19.66,373.6,Apple Pay,58,Female,Miami,Florida,4
+10459,2023-06-15,4945,Smartphones Product 8,Electronics,Smartphones,1469.26,1,1469.26,5,73.46,1395.8,Bank Transfer,28,Non-binary,Austin,Texas,4
+10460,2023-06-16,4945,Equipment Product 29,Sports,Equipment,113.38,2,226.76,0,0.0,226.76,Bank Transfer,62,Male,Austin,Texas,3
+10461,2023-06-16,4945,Accessories Product 52,Sports,Accessories,122.81,1,122.81,0,0.0,122.81,Bank Transfer,56,Non-binary,San Antonio,Texas,3
+10462,2023-06-17,4945,Decor Product 50,Home & Kitchen,Decor,112.61,3,337.83,0,0.0,337.83,Google Pay,67,Non-binary,San Jose,California,5
+10463,2023-06-17,4945,Headphones Product 63,Electronics,Headphones,257.12,3,771.36,5,38.57,732.79,Google Pay,73,Non-binary,Austin,Texas,5
+10464,2023-06-18,4945,Accessories Product 46,Clothing,Accessories,80.69,2,161.38,0,0.0,161.38,PayPal,60,Male,San Jose,California,2
+10465,2023-06-19,4945,Comics Product 39,Books,Comics,81.23,1,81.23,0,0.0,81.23,Apple Pay,34,Female,Austin,Texas,3
+10466,2023-06-19,4945,Apparel Product 44,Sports,Apparel,491.55,1,491.55,15,73.73,417.82,PayPal,55,Male,Dallas,Texas,5
+10467,2023-06-19,5163,Educational Product 2,Books,Educational,17.91,3,53.73,0,0.0,53.73,Credit Card,47,Non-binary,Albany,New York,1
+10468,2023-06-19,2429,Pants Product 5,Clothing,Pants,122.06,1,122.06,5,6.1,115.96,Credit Card,43,Non-binary,Fort Worth,Texas,5
+10469,2023-06-19,2429,Fiction Product 82,Books,Fiction,32.91,1,32.91,10,3.29,29.62,PayPal,47,Male,Chicago,Illinois,5
+10470,2023-06-19,2429,Decor Product 3,Home & Kitchen,Decor,573.1,1,573.1,0,0.0,573.1,Credit Card,27,Non-binary,San Jose,California,4
+10471,2023-06-20,2429,Apparel Product 12,Sports,Apparel,154.8,2,309.6,5,15.48,294.12,PayPal,37,Non-binary,Jacksonville,Florida,5
+10472,2023-06-21,2429,Tablets Product 13,Electronics,Tablets,670.97,1,670.97,0,0.0,670.97,PayPal,31,Non-binary,Tallahassee,Florida,3
+10473,2023-06-21,2429,Fitness Product 93,Sports,Fitness,194.11,1,194.11,0,0.0,194.11,PayPal,28,Female,Buffalo,New York,4
+10474,2023-06-21,2429,Bedding Product 7,Home & Kitchen,Bedding,22.98,5,114.9,0,0.0,114.9,Credit Card,62,Female,San Diego,California,3
+10475,2023-06-21,9762,Fitness Product 78,Sports,Fitness,36.05,1,36.05,0,0.0,36.05,Bank Transfer,28,Female,Sacramento,California,3
+10476,2023-06-22,9661,Shirts Product 63,Clothing,Shirts,115.27,1,115.27,0,0.0,115.27,Bank Transfer,26,Female,Springfield,Illinois,5
+10477,2023-06-22,7943,Comics Product 97,Books,Comics,35.35,1,35.35,5,1.77,33.58,Credit Card,39,Non-binary,Tallahassee,Florida,4
+10478,2023-06-22,2630,Fitness Product 26,Sports,Fitness,118.8,2,237.6,0,0.0,237.6,Google Pay,73,Non-binary,Naperville,Illinois,2
+10479,2023-06-22,6140,Cameras Product 33,Electronics,Cameras,1449.65,1,1449.65,15,217.45,1232.2,PayPal,28,Male,Austin,Texas,5
+10480,2023-06-22,6140,Accessories Product 64,Sports,Accessories,264.14,1,264.14,0,0.0,264.14,Apple Pay,62,Male,San Diego,California,5
+10481,2023-06-22,6140,Comics Product 85,Books,Comics,26.92,2,53.84,0,0.0,53.84,PayPal,28,Female,San Antonio,Texas,5
+10482,2023-06-23,6140,Tablets Product 43,Electronics,Tablets,1022.39,1,1022.39,0,0.0,1022.39,Credit Card,19,Non-binary,San Antonio,Texas,4
+10483,2023-06-23,6140,Dresses Product 34,Clothing,Dresses,146.0,2,292.0,0,0.0,292.0,PayPal,59,Non-binary,Rockford,Illinois,3
+10484,2023-06-24,6140,Equipment Product 42,Sports,Equipment,306.43,2,612.86,0,0.0,612.86,PayPal,29,Male,San Francisco,California,4
+10485,2023-06-25,6140,Laptops Product 50,Electronics,Laptops,428.04,2,856.08,0,0.0,856.08,Bank Transfer,69,Female,New York City,New York,4
+10486,2023-06-25,1017,Furniture Product 62,Home & Kitchen,Furniture,802.15,1,802.15,0,0.0,802.15,Credit Card,44,Non-binary,Tallahassee,Florida,4
+10487,2023-06-26,1017,Shirts Product 28,Clothing,Shirts,121.57,3,364.71,0,0.0,364.71,Bank Transfer,21,Female,San Diego,California,3
+10488,2023-06-26,1017,Non-fiction Product 67,Books,Non-fiction,53.29,1,53.29,0,0.0,53.29,Google Pay,75,Female,Tallahassee,Florida,3
+10489,2023-06-26,1017,Headphones Product 66,Electronics,Headphones,757.51,1,757.51,0,0.0,757.51,Credit Card,63,Female,Jacksonville,Florida,4
+10490,2023-06-26,9372,Equipment Product 71,Sports,Equipment,388.43,1,388.43,5,19.42,369.01,Google Pay,65,Female,San Jose,California,3
+10491,2023-06-27,8982,Footwear Product 79,Sports,Footwear,51.46,2,102.92,0,0.0,102.92,Apple Pay,39,Non-binary,Syracuse,New York,5
+10492,2023-06-27,3042,Apparel Product 58,Sports,Apparel,123.48,3,370.44,0,0.0,370.44,Credit Card,73,Female,Tallahassee,Florida,5
+10493,2023-06-27,3042,Equipment Product 52,Sports,Equipment,372.14,1,372.14,0,0.0,372.14,Apple Pay,71,Female,San Diego,California,4
+10494,2023-06-28,3042,Cameras Product 41,Electronics,Cameras,203.83,1,203.83,0,0.0,203.83,Bank Transfer,25,Female,Tallahassee,Florida,4
+10495,2023-06-28,9279,Footwear Product 87,Sports,Footwear,68.19,1,68.19,5,3.41,64.78,Bank Transfer,47,Male,Jacksonville,Florida,3
+10496,2023-06-29,9279,Headphones Product 15,Electronics,Headphones,509.67,1,509.67,10,50.97,458.7,PayPal,18,Non-binary,Springfield,Illinois,4
+10497,2023-06-29,9279,Smartphones Product 53,Electronics,Smartphones,1979.73,1,1979.73,0,0.0,1979.73,Bank Transfer,53,Female,Albany,New York,5
+10498,2023-06-29,9279,Shirts Product 53,Clothing,Shirts,36.16,5,180.8,20,36.16,144.64,Bank Transfer,66,Female,Springfield,Illinois,3
+10499,2023-06-29,9279,Appliances Product 42,Home & Kitchen,Appliances,75.82,2,151.64,0,0.0,151.64,Google Pay,70,Female,Buffalo,New York,5
+10500,2023-06-29,9279,Apparel Product 61,Sports,Apparel,222.28,1,222.28,20,44.46,177.82,Bank Transfer,26,Female,Houston,Texas,4
+10501,2023-06-30,9279,Comics Product 76,Books,Comics,35.55,1,35.55,0,0.0,35.55,Google Pay,73,Male,Tallahassee,Florida,3
+10502,2023-06-30,9279,Shoes Product 32,Clothing,Shoes,30.41,1,30.41,0,0.0,30.41,Credit Card,36,Female,San Diego,California,5
+10503,2023-07-01,9279,Shoes Product 37,Clothing,Shoes,90.26,2,180.52,5,9.03,171.49,Apple Pay,35,Male,Chicago,Illinois,3
+10504,2023-07-02,9279,Apparel Product 90,Sports,Apparel,18.16,2,36.32,10,3.63,32.69,Apple Pay,27,Female,San Diego,California,1
+10505,2023-07-02,9279,Dresses Product 41,Clothing,Dresses,58.96,4,235.84,0,0.0,235.84,Google Pay,20,Female,Chicago,Illinois,5
+10506,2023-07-03,9279,Appliances Product 84,Home & Kitchen,Appliances,126.16,1,126.16,5,6.31,119.85,Credit Card,46,Female,Rockford,Illinois,5
+10507,2023-07-03,9279,Smartphones Product 95,Electronics,Smartphones,1571.48,2,3142.96,10,314.3,2828.66,Credit Card,58,Male,New York City,New York,2
+10508,2023-07-03,9279,Footwear Product 3,Sports,Footwear,255.74,2,511.48,0,0.0,511.48,Apple Pay,36,Non-binary,Austin,Texas,3
+10509,2023-07-04,9279,Educational Product 86,Books,Educational,46.55,2,93.1,0,0.0,93.1,Google Pay,56,Female,Chicago,Illinois,4
+10510,2023-07-05,9279,Shoes Product 34,Clothing,Shoes,162.43,1,162.43,0,0.0,162.43,Google Pay,49,Female,Chicago,Illinois,4
+10511,2023-07-05,9279,Headphones Product 63,Electronics,Headphones,1626.08,1,1626.08,0,0.0,1626.08,Bank Transfer,34,Non-binary,San Diego,California,4
+10512,2023-07-05,9279,Biographies Product 3,Books,Biographies,99.67,1,99.67,0,0.0,99.67,Apple Pay,46,Female,San Diego,California,3
+10513,2023-07-06,9279,Comics Product 89,Books,Comics,44.23,1,44.23,0,0.0,44.23,Apple Pay,71,Male,Tallahassee,Florida,5
+10514,2023-07-06,9279,Accessories Product 62,Clothing,Accessories,95.28,1,95.28,10,9.53,85.75,Credit Card,42,Non-binary,Los Angeles,California,5
+10515,2023-07-06,9279,Equipment Product 85,Sports,Equipment,227.97,2,455.94,0,0.0,455.94,Bank Transfer,50,Female,Rockford,Illinois,3
+10516,2023-07-06,9279,Laptops Product 51,Electronics,Laptops,800.17,1,800.17,10,80.02,720.15,Bank Transfer,65,Male,Sacramento,California,3
+10517,2023-07-06,8388,Dresses Product 57,Clothing,Dresses,146.92,1,146.92,5,7.35,139.57,Apple Pay,30,Non-binary,Syracuse,New York,5
+10518,2023-07-07,7566,Footwear Product 49,Sports,Footwear,245.87,3,737.61,0,0.0,737.61,Bank Transfer,24,Female,Los Angeles,California,3
+10519,2023-07-07,3273,Dresses Product 81,Clothing,Dresses,85.54,5,427.7,15,64.16,363.54,Apple Pay,36,Non-binary,Syracuse,New York,5
+10520,2023-07-07,4484,Comics Product 85,Books,Comics,37.19,3,111.57,0,0.0,111.57,Credit Card,55,Female,Buffalo,New York,5
+10521,2023-07-08,9192,Dresses Product 3,Clothing,Dresses,38.31,1,38.31,0,0.0,38.31,Google Pay,55,Female,San Antonio,Texas,3
+10522,2023-07-08,6907,Shirts Product 75,Clothing,Shirts,57.16,1,57.16,10,5.72,51.44,Apple Pay,30,Female,Tallahassee,Florida,2
+10523,2023-07-09,3578,Apparel Product 51,Sports,Apparel,411.52,1,411.52,0,0.0,411.52,Credit Card,23,Non-binary,Los Angeles,California,4
+10524,2023-07-09,3156,Dresses Product 7,Clothing,Dresses,121.79,2,243.58,0,0.0,243.58,Apple Pay,23,Male,San Francisco,California,4
+10525,2023-07-09,5682,Apparel Product 13,Sports,Apparel,237.47,2,474.94,0,0.0,474.94,Apple Pay,35,Non-binary,Chicago,Illinois,5
+10526,2023-07-09,5682,Accessories Product 79,Clothing,Accessories,145.88,2,291.76,5,14.59,277.17,Credit Card,32,Male,Tallahassee,Florida,5
+10527,2023-07-09,3019,Shirts Product 73,Clothing,Shirts,85.2,3,255.6,0,0.0,255.6,Google Pay,67,Non-binary,Austin,Texas,2
+10528,2023-07-09,3019,Laptops Product 82,Electronics,Laptops,1763.84,1,1763.84,0,0.0,1763.84,PayPal,68,Male,Springfield,Illinois,4
+10529,2023-07-10,3019,Non-fiction Product 84,Books,Non-fiction,74.3,2,148.6,0,0.0,148.6,Google Pay,32,Non-binary,Springfield,Illinois,1
+10530,2023-07-10,3019,Shirts Product 100,Clothing,Shirts,114.35,1,114.35,0,0.0,114.35,Credit Card,35,Non-binary,Miami,Florida,4
+10531,2023-07-10,9227,Apparel Product 83,Sports,Apparel,331.06,1,331.06,10,33.11,297.95,Credit Card,55,Non-binary,San Francisco,California,4
+10532,2023-07-11,9227,Decor Product 73,Home & Kitchen,Decor,818.37,1,818.37,0,0.0,818.37,Credit Card,56,Male,San Antonio,Texas,2
+10533,2023-07-11,9227,Accessories Product 38,Sports,Accessories,387.76,2,775.52,15,116.33,659.19,PayPal,57,Non-binary,Orlando,Florida,2
+10534,2023-07-11,9227,Smartphones Product 61,Electronics,Smartphones,1729.67,2,3459.34,0,0.0,3459.34,Bank Transfer,44,Male,Chicago,Illinois,4
+10535,2023-07-11,5471,Apparel Product 34,Sports,Apparel,51.25,2,102.5,10,10.25,92.25,Apple Pay,21,Non-binary,Dallas,Texas,4
+10536,2023-07-11,5471,Equipment Product 19,Sports,Equipment,19.83,1,19.83,10,1.98,17.85,Google Pay,67,Female,Dallas,Texas,3
+10537,2023-07-11,5471,Accessories Product 14,Sports,Accessories,289.94,1,289.94,10,28.99,260.95,Credit Card,65,Non-binary,Sacramento,California,1
+10538,2023-07-11,8812,Apparel Product 92,Sports,Apparel,495.58,1,495.58,0,0.0,495.58,Credit Card,72,Male,San Diego,California,5
+10539,2023-07-13,8812,Footwear Product 73,Sports,Footwear,321.64,1,321.64,15,48.25,273.39,Bank Transfer,35,Non-binary,Miami,Florida,4
+10540,2023-07-13,8812,Fiction Product 19,Books,Fiction,84.6,1,84.6,0,0.0,84.6,Bank Transfer,41,Non-binary,New York City,New York,3
+10541,2023-07-13,8812,Tablets Product 7,Electronics,Tablets,481.06,1,481.06,5,24.05,457.01,Google Pay,51,Non-binary,Austin,Texas,2
+10542,2023-07-14,8812,Laptops Product 42,Electronics,Laptops,1082.34,1,1082.34,15,162.35,919.99,PayPal,70,Male,Miami,Florida,5
+10543,2023-07-14,8812,Apparel Product 34,Sports,Apparel,480.15,3,1440.45,0,0.0,1440.45,Apple Pay,44,Female,San Diego,California,5
+10544,2023-07-14,8812,Non-fiction Product 19,Books,Non-fiction,88.99,5,444.95,0,0.0,444.95,PayPal,30,Female,Dallas,Texas,4
+10545,2023-07-15,8812,Equipment Product 45,Sports,Equipment,32.58,4,130.32,0,0.0,130.32,Credit Card,46,Male,Rochester,New York,5
+10546,2023-07-15,8812,Decor Product 91,Home & Kitchen,Decor,791.47,1,791.47,5,39.57,751.9,Apple Pay,67,Female,Los Angeles,California,5
+10547,2023-07-16,8812,Tablets Product 94,Electronics,Tablets,481.24,2,962.48,5,48.12,914.36,Apple Pay,45,Female,Naperville,Illinois,4
+10548,2023-07-16,8812,Tablets Product 11,Electronics,Tablets,1954.88,1,1954.88,0,0.0,1954.88,Bank Transfer,39,Male,Buffalo,New York,4
+10549,2023-07-17,8812,Biographies Product 6,Books,Biographies,29.81,1,29.81,0,0.0,29.81,Apple Pay,37,Male,Albany,New York,4
+10550,2023-07-17,8812,Shirts Product 98,Clothing,Shirts,179.64,2,359.28,5,17.96,341.32,PayPal,61,Male,Miami,Florida,2
+10551,2023-07-17,8812,Accessories Product 90,Clothing,Accessories,87.99,1,87.99,0,0.0,87.99,Google Pay,40,Non-binary,Orlando,Florida,5
+10552,2023-07-17,8812,Decor Product 53,Home & Kitchen,Decor,729.71,2,1459.42,5,72.97,1386.45,Apple Pay,57,Non-binary,Miami,Florida,2
+10553,2023-07-18,1277,Smartphones Product 88,Electronics,Smartphones,1226.88,1,1226.88,0,0.0,1226.88,Credit Card,18,Non-binary,Houston,Texas,4
+10554,2023-07-20,6659,Bedding Product 95,Home & Kitchen,Bedding,716.78,1,716.78,0,0.0,716.78,Credit Card,52,Female,San Diego,California,4
+10555,2023-07-20,2770,Shoes Product 93,Clothing,Shoes,195.04,1,195.04,0,0.0,195.04,Apple Pay,72,Male,New York City,New York,3
+10556,2023-07-20,2770,Equipment Product 13,Sports,Equipment,383.34,1,383.34,0,0.0,383.34,Bank Transfer,64,Non-binary,Sacramento,California,5
+10557,2023-07-21,4377,Pants Product 98,Clothing,Pants,39.16,1,39.16,15,5.87,33.29,Google Pay,37,Non-binary,Sacramento,California,3
+10558,2023-07-21,4377,Appliances Product 44,Home & Kitchen,Appliances,909.35,1,909.35,5,45.47,863.88,Apple Pay,27,Male,Austin,Texas,5
+10559,2023-07-21,4377,Smartphones Product 42,Electronics,Smartphones,706.38,1,706.38,10,70.64,635.74,Google Pay,70,Non-binary,Jacksonville,Florida,5
+10560,2023-07-21,4377,Cameras Product 34,Electronics,Cameras,308.58,3,925.74,0,0.0,925.74,Credit Card,37,Non-binary,Jacksonville,Florida,1
+10561,2023-07-22,7940,Accessories Product 95,Clothing,Accessories,51.16,2,102.32,0,0.0,102.32,Google Pay,21,Female,Syracuse,New York,4
+10562,2023-07-22,8841,Cookware Product 42,Home & Kitchen,Cookware,991.08,1,991.08,0,0.0,991.08,Bank Transfer,33,Male,Houston,Texas,3
+10563,2023-07-22,8841,Educational Product 23,Books,Educational,15.38,2,30.76,10,3.08,27.68,Google Pay,40,Non-binary,Orlando,Florida,3
+10564,2023-07-23,4438,Accessories Product 40,Clothing,Accessories,109.04,1,109.04,0,0.0,109.04,Google Pay,34,Non-binary,Chicago,Illinois,4
+10565,2023-07-24,9040,Biographies Product 17,Books,Biographies,63.79,2,127.58,5,6.38,121.2,Bank Transfer,43,Female,Rockford,Illinois,5
+10566,2023-07-24,6363,Equipment Product 6,Sports,Equipment,215.04,1,215.04,0,0.0,215.04,PayPal,44,Male,Miami,Florida,4
+10567,2023-07-25,2916,Footwear Product 28,Sports,Footwear,450.18,1,450.18,0,0.0,450.18,Google Pay,68,Female,Springfield,Illinois,3
+10568,2023-07-25,3192,Headphones Product 43,Electronics,Headphones,1254.39,1,1254.39,0,0.0,1254.39,PayPal,43,Male,Miami,Florida,2
+10569,2023-07-26,3192,Cookware Product 3,Home & Kitchen,Cookware,301.32,1,301.32,15,45.2,256.12,Bank Transfer,59,Female,Tampa,Florida,5
+10570,2023-07-26,3192,Laptops Product 12,Electronics,Laptops,1251.76,1,1251.76,0,0.0,1251.76,Credit Card,35,Non-binary,Tallahassee,Florida,5
+10571,2023-07-26,3192,Pants Product 1,Clothing,Pants,137.95,1,137.95,0,0.0,137.95,Credit Card,36,Female,Rochester,New York,5
+10572,2023-07-27,3192,Apparel Product 96,Sports,Apparel,347.33,1,347.33,0,0.0,347.33,PayPal,48,Non-binary,Jacksonville,Florida,2
+10573,2023-07-27,3192,Laptops Product 11,Electronics,Laptops,492.46,1,492.46,10,49.25,443.21,Apple Pay,19,Non-binary,Tampa,Florida,4
+10574,2023-07-27,3192,Decor Product 94,Home & Kitchen,Decor,38.31,1,38.31,0,0.0,38.31,Credit Card,36,Non-binary,Orlando,Florida,3
+10575,2023-07-31,3427,Comics Product 96,Books,Comics,17.33,1,17.33,0,0.0,17.33,Google Pay,47,Female,Jacksonville,Florida,4
+10576,2023-07-31,8654,Apparel Product 36,Sports,Apparel,123.29,2,246.58,5,12.33,234.25,Bank Transfer,43,Male,Orlando,Florida,3
+10577,2023-07-31,8822,Furniture Product 97,Home & Kitchen,Furniture,381.94,1,381.94,0,0.0,381.94,Bank Transfer,62,Female,Naperville,Illinois,5
+10578,2023-08-01,3094,Tablets Product 67,Electronics,Tablets,879.78,1,879.78,0,0.0,879.78,Apple Pay,25,Non-binary,Houston,Texas,5
+10579,2023-08-01,5089,Pants Product 60,Clothing,Pants,148.29,1,148.29,15,22.24,126.05,Bank Transfer,26,Male,Rockford,Illinois,3
+10580,2023-08-02,3895,Appliances Product 25,Home & Kitchen,Appliances,162.53,2,325.06,0,0.0,325.06,Apple Pay,35,Male,Peoria,Illinois,1
+10581,2023-08-02,8323,Cameras Product 75,Electronics,Cameras,246.48,3,739.44,5,36.97,702.47,Credit Card,36,Non-binary,San Antonio,Texas,3
+10582,2023-08-02,8323,Accessories Product 70,Clothing,Accessories,27.12,2,54.24,10,5.42,48.82,Apple Pay,28,Female,Buffalo,New York,4
+10583,2023-08-03,8323,Laptops Product 91,Electronics,Laptops,995.66,2,1991.32,0,0.0,1991.32,PayPal,74,Female,Orlando,Florida,4
+10584,2023-08-03,8323,Headphones Product 29,Electronics,Headphones,652.28,1,652.28,0,0.0,652.28,PayPal,34,Male,Los Angeles,California,5
+10585,2023-08-03,8323,Shirts Product 69,Clothing,Shirts,108.82,1,108.82,5,5.44,103.38,Apple Pay,48,Male,San Jose,California,4
+10586,2023-08-03,8323,Headphones Product 93,Electronics,Headphones,326.79,1,326.79,5,16.34,310.45,Credit Card,65,Female,Austin,Texas,5
+10587,2023-08-03,8323,Bedding Product 12,Home & Kitchen,Bedding,820.03,1,820.03,10,82.0,738.03,PayPal,48,Male,Tampa,Florida,5
+10588,2023-08-04,5582,Educational Product 16,Books,Educational,49.36,4,197.44,0,0.0,197.44,PayPal,40,Female,Syracuse,New York,5
+10589,2023-08-04,6528,Apparel Product 9,Sports,Apparel,355.42,3,1066.26,0,0.0,1066.26,Credit Card,51,Female,Rochester,New York,1
+10590,2023-08-05,4577,Pants Product 70,Clothing,Pants,31.24,3,93.72,0,0.0,93.72,Credit Card,66,Female,Orlando,Florida,2
+10591,2023-08-05,4947,Headphones Product 28,Electronics,Headphones,1723.9,1,1723.9,20,344.78,1379.12,Bank Transfer,75,Non-binary,Jacksonville,Florida,3
+10592,2023-08-05,6196,Laptops Product 50,Electronics,Laptops,294.09,1,294.09,5,14.7,279.39,Credit Card,27,Non-binary,Orlando,Florida,4
+10593,2023-08-05,9052,Biographies Product 70,Books,Biographies,62.15,2,124.3,5,6.21,118.09,Apple Pay,40,Female,Jacksonville,Florida,5
+10594,2023-08-05,3227,Footwear Product 18,Sports,Footwear,96.6,2,193.2,0,0.0,193.2,Google Pay,34,Female,Fort Worth,Texas,4
+10595,2023-08-05,9227,Smartphones Product 7,Electronics,Smartphones,452.87,1,452.87,15,67.93,384.94,PayPal,45,Non-binary,Miami,Florida,4
+10596,2023-08-06,9227,Apparel Product 30,Sports,Apparel,275.4,1,275.4,0,0.0,275.4,Apple Pay,36,Female,Syracuse,New York,5
+10597,2023-08-06,9227,Headphones Product 22,Electronics,Headphones,1767.1,1,1767.1,0,0.0,1767.1,Bank Transfer,48,Male,Jacksonville,Florida,3
+10598,2023-08-06,1885,Bedding Product 9,Home & Kitchen,Bedding,544.81,1,544.81,0,0.0,544.81,Credit Card,43,Male,Houston,Texas,5
+10599,2023-08-06,7991,Equipment Product 11,Sports,Equipment,170.66,1,170.66,5,8.53,162.13,Credit Card,52,Female,San Jose,California,2
+10600,2023-08-06,7991,Footwear Product 85,Sports,Footwear,193.7,1,193.7,5,9.69,184.01,PayPal,30,Non-binary,Jacksonville,Florida,5
+10601,2023-08-08,7991,Apparel Product 44,Sports,Apparel,346.44,1,346.44,0,0.0,346.44,Credit Card,20,Female,San Antonio,Texas,4
+10602,2023-08-08,7991,Apparel Product 5,Sports,Apparel,372.16,1,372.16,5,18.61,353.55,Credit Card,46,Female,Buffalo,New York,5
+10603,2023-08-08,7991,Shoes Product 32,Clothing,Shoes,85.54,3,256.62,5,12.83,243.79,Bank Transfer,32,Female,Fort Worth,Texas,4
+10604,2023-08-08,2394,Apparel Product 34,Sports,Apparel,196.87,3,590.61,0,0.0,590.61,Apple Pay,33,Non-binary,Buffalo,New York,3
+10605,2023-08-08,8486,Tablets Product 70,Electronics,Tablets,1295.91,1,1295.91,0,0.0,1295.91,Apple Pay,20,Female,Dallas,Texas,4
+10606,2023-08-08,1048,Fitness Product 43,Sports,Fitness,409.77,1,409.77,20,81.95,327.82,Bank Transfer,67,Male,Rockford,Illinois,4
+10607,2023-08-08,1048,Decor Product 83,Home & Kitchen,Decor,164.92,1,164.92,0,0.0,164.92,Credit Card,34,Male,Miami,Florida,5
+10608,2023-08-09,1048,Accessories Product 55,Sports,Accessories,478.27,1,478.27,0,0.0,478.27,Apple Pay,71,Female,Albany,New York,3
+10609,2023-08-10,1048,Decor Product 12,Home & Kitchen,Decor,228.4,1,228.4,10,22.84,205.56,Google Pay,47,Male,Albany,New York,5
+10610,2023-08-10,1048,Non-fiction Product 56,Books,Non-fiction,76.87,5,384.35,5,19.22,365.13,Google Pay,57,Male,Albany,New York,3
+10611,2023-08-10,1048,Cookware Product 18,Home & Kitchen,Cookware,249.19,2,498.38,0,0.0,498.38,Google Pay,34,Non-binary,Jacksonville,Florida,4
+10612,2023-08-11,1048,Fitness Product 15,Sports,Fitness,418.75,1,418.75,0,0.0,418.75,Bank Transfer,22,Female,Albany,New York,1
+10613,2023-08-11,1048,Smartphones Product 71,Electronics,Smartphones,275.06,2,550.12,10,55.01,495.11,Apple Pay,33,Male,Miami,Florida,4
+10614,2023-08-11,1048,Smartphones Product 98,Electronics,Smartphones,856.53,1,856.53,0,0.0,856.53,Google Pay,45,Female,San Francisco,California,5
+10615,2023-08-11,1048,Pants Product 63,Clothing,Pants,153.25,1,153.25,0,0.0,153.25,PayPal,53,Female,Rochester,New York,5
+10616,2023-08-11,1048,Tablets Product 40,Electronics,Tablets,289.89,3,869.67,5,43.48,826.19,Apple Pay,27,Male,Houston,Texas,2
+10617,2023-08-12,1048,Fitness Product 91,Sports,Fitness,56.42,3,169.26,15,25.39,143.87,Credit Card,51,Non-binary,Chicago,Illinois,5
+10618,2023-08-12,1048,Pants Product 96,Clothing,Pants,74.54,1,74.54,0,0.0,74.54,PayPal,29,Female,San Antonio,Texas,5
+10619,2023-08-12,7201,Fitness Product 81,Sports,Fitness,250.27,2,500.54,0,0.0,500.54,PayPal,51,Non-binary,Springfield,Illinois,5
+10620,2023-08-12,7201,Accessories Product 32,Clothing,Accessories,190.93,1,190.93,5,9.55,181.38,Google Pay,25,Female,Rockford,Illinois,4
+10621,2023-08-13,7201,Headphones Product 57,Electronics,Headphones,1277.37,1,1277.37,5,63.87,1213.5,PayPal,42,Female,New York City,New York,4
+10622,2023-08-13,7201,Footwear Product 34,Sports,Footwear,345.81,1,345.81,0,0.0,345.81,Bank Transfer,74,Non-binary,Sacramento,California,5
+10623,2023-08-13,7201,Educational Product 3,Books,Educational,57.14,1,57.14,0,0.0,57.14,Apple Pay,68,Female,Jacksonville,Florida,3
+10624,2023-08-13,7201,Furniture Product 86,Home & Kitchen,Furniture,255.64,1,255.64,10,25.56,230.08,Google Pay,19,Male,Albany,New York,4
+10625,2023-08-14,7201,Bedding Product 36,Home & Kitchen,Bedding,23.98,1,23.98,0,0.0,23.98,Apple Pay,64,Female,Fort Worth,Texas,3
+10626,2023-08-14,9379,Footwear Product 14,Sports,Footwear,234.16,1,234.16,5,11.71,222.45,PayPal,56,Male,Chicago,Illinois,4
+10627,2023-08-14,4676,Shirts Product 55,Clothing,Shirts,118.13,1,118.13,5,5.91,112.22,PayPal,57,Non-binary,Sacramento,California,4
+10628,2023-08-15,3276,Apparel Product 95,Sports,Apparel,442.92,2,885.84,0,0.0,885.84,Google Pay,30,Male,Los Angeles,California,3
+10629,2023-08-15,3276,Apparel Product 29,Sports,Apparel,459.45,2,918.9,15,137.83,781.07,Bank Transfer,70,Female,Chicago,Illinois,4
+10630,2023-08-15,4352,Educational Product 10,Books,Educational,49.64,2,99.28,0,0.0,99.28,Credit Card,51,Female,Tallahassee,Florida,4
+10631,2023-08-15,5899,Smartphones Product 64,Electronics,Smartphones,673.72,1,673.72,5,33.69,640.03,Bank Transfer,63,Non-binary,Rochester,New York,5
+10632,2023-08-15,5799,Biographies Product 1,Books,Biographies,87.32,2,174.64,0,0.0,174.64,PayPal,39,Non-binary,San Antonio,Texas,5
+10633,2023-08-16,6957,Laptops Product 94,Electronics,Laptops,1937.89,1,1937.89,5,96.89,1841.0,Apple Pay,43,Female,Tampa,Florida,5
+10634,2023-08-16,7179,Tablets Product 4,Electronics,Tablets,430.75,1,430.75,0,0.0,430.75,PayPal,36,Non-binary,Houston,Texas,5
+10635,2023-08-17,5200,Dresses Product 49,Clothing,Dresses,107.81,1,107.81,10,10.78,97.03,Google Pay,54,Non-binary,Rockford,Illinois,5
+10636,2023-08-17,5200,Cookware Product 11,Home & Kitchen,Cookware,196.28,2,392.56,0,0.0,392.56,Apple Pay,66,Male,Los Angeles,California,3
+10637,2023-08-17,3107,Accessories Product 21,Sports,Accessories,227.68,1,227.68,0,0.0,227.68,Apple Pay,69,Non-binary,Buffalo,New York,5
+10638,2023-08-17,1082,Equipment Product 55,Sports,Equipment,30.21,1,30.21,5,1.51,28.7,Apple Pay,58,Female,Tallahassee,Florida,5
+10639,2023-08-17,6291,Accessories Product 36,Sports,Accessories,465.32,1,465.32,0,0.0,465.32,Apple Pay,45,Non-binary,Orlando,Florida,1
+10640,2023-08-18,6291,Shoes Product 85,Clothing,Shoes,23.79,2,47.58,0,0.0,47.58,Credit Card,55,Male,Naperville,Illinois,4
+10641,2023-08-18,6291,Shoes Product 48,Clothing,Shoes,29.06,5,145.3,5,7.27,138.03,Bank Transfer,74,Male,Naperville,Illinois,5
+10642,2023-08-19,6291,Shoes Product 21,Clothing,Shoes,65.23,1,65.23,0,0.0,65.23,Credit Card,45,Non-binary,Syracuse,New York,4
+10643,2023-08-19,6291,Accessories Product 72,Sports,Accessories,488.23,1,488.23,10,48.82,439.41,Credit Card,69,Non-binary,Buffalo,New York,5
+10644,2023-08-19,6181,Smartphones Product 31,Electronics,Smartphones,473.19,2,946.38,0,0.0,946.38,Google Pay,43,Female,Buffalo,New York,3
+10645,2023-08-19,5541,Footwear Product 10,Sports,Footwear,404.3,1,404.3,0,0.0,404.3,Google Pay,44,Male,Sacramento,California,4
+10646,2023-08-19,5541,Appliances Product 6,Home & Kitchen,Appliances,911.18,1,911.18,15,136.68,774.5,Google Pay,45,Non-binary,Buffalo,New York,4
+10647,2023-08-21,5541,Pants Product 14,Clothing,Pants,196.49,1,196.49,5,9.82,186.67,Apple Pay,74,Male,Syracuse,New York,3
+10648,2023-08-21,5541,Footwear Product 28,Sports,Footwear,197.73,1,197.73,0,0.0,197.73,Google Pay,43,Male,Tampa,Florida,5
+10649,2023-08-21,5541,Furniture Product 24,Home & Kitchen,Furniture,335.19,1,335.19,5,16.76,318.43,Credit Card,70,Non-binary,Rockford,Illinois,4
+10650,2023-08-21,5541,Fitness Product 90,Sports,Fitness,23.05,5,115.25,0,0.0,115.25,Apple Pay,61,Male,Rockford,Illinois,2
+10651,2023-08-21,5541,Accessories Product 90,Sports,Accessories,65.73,2,131.46,15,19.72,111.74,Apple Pay,70,Male,Jacksonville,Florida,4
+10652,2023-08-21,5541,Accessories Product 10,Clothing,Accessories,181.47,1,181.47,0,0.0,181.47,PayPal,27,Female,Dallas,Texas,5
+10653,2023-08-21,5541,Accessories Product 95,Clothing,Accessories,172.73,1,172.73,5,8.64,164.09,PayPal,51,Non-binary,Buffalo,New York,4
+10654,2023-08-21,5541,Bedding Product 28,Home & Kitchen,Bedding,60.9,1,60.9,5,3.04,57.86,Credit Card,50,Male,Buffalo,New York,5
+10655,2023-08-22,1338,Fitness Product 34,Sports,Fitness,348.98,1,348.98,0,0.0,348.98,PayPal,61,Male,Chicago,Illinois,5
+10656,2023-08-23,8866,Pants Product 27,Clothing,Pants,102.17,1,102.17,0,0.0,102.17,Apple Pay,66,Male,Miami,Florida,2
+10657,2023-08-23,8065,Educational Product 19,Books,Educational,69.63,1,69.63,5,3.48,66.15,PayPal,26,Male,Syracuse,New York,4
+10658,2023-08-24,5088,Biographies Product 93,Books,Biographies,55.41,1,55.41,0,0.0,55.41,Bank Transfer,44,Male,Springfield,Illinois,5
+10659,2023-08-24,6456,Footwear Product 43,Sports,Footwear,158.51,1,158.51,0,0.0,158.51,Google Pay,50,Male,San Jose,California,5
+10660,2023-08-24,3459,Laptops Product 48,Electronics,Laptops,811.26,1,811.26,0,0.0,811.26,Credit Card,64,Non-binary,Springfield,Illinois,3
+10661,2023-08-25,4741,Apparel Product 49,Sports,Apparel,354.18,2,708.36,5,35.42,672.94,Google Pay,46,Non-binary,Sacramento,California,5
+10662,2023-08-25,8220,Fitness Product 97,Sports,Fitness,25.52,1,25.52,0,0.0,25.52,Google Pay,62,Male,Houston,Texas,5
+10663,2023-08-25,2528,Tablets Product 24,Electronics,Tablets,417.0,1,417.0,0,0.0,417.0,Apple Pay,60,Female,Sacramento,California,4
+10664,2023-08-26,7455,Pants Product 24,Clothing,Pants,19.27,1,19.27,0,0.0,19.27,PayPal,53,Female,Houston,Texas,5
+10665,2023-08-26,7455,Accessories Product 97,Sports,Accessories,321.63,1,321.63,10,32.16,289.47,Apple Pay,35,Male,San Diego,California,4
+10666,2023-08-26,7455,Cameras Product 2,Electronics,Cameras,953.18,2,1906.36,0,0.0,1906.36,PayPal,52,Female,Dallas,Texas,4
+10667,2023-08-27,7455,Fitness Product 51,Sports,Fitness,133.0,2,266.0,5,13.3,252.7,Apple Pay,66,Non-binary,Los Angeles,California,3
+10668,2023-08-27,7455,Decor Product 68,Home & Kitchen,Decor,392.6,2,785.2,0,0.0,785.2,Credit Card,26,Female,Peoria,Illinois,3
+10669,2023-08-27,1542,Dresses Product 79,Clothing,Dresses,199.25,1,199.25,10,19.93,179.32,Google Pay,68,Non-binary,Houston,Texas,4
+10670,2023-08-27,1542,Accessories Product 5,Sports,Accessories,407.23,1,407.23,0,0.0,407.23,Google Pay,58,Male,Tampa,Florida,5
+10671,2023-08-27,1617,Shirts Product 31,Clothing,Shirts,43.48,1,43.48,20,8.7,34.78,Credit Card,61,Non-binary,Springfield,Illinois,5
+10672,2023-08-28,9940,Cookware Product 8,Home & Kitchen,Cookware,918.07,1,918.07,5,45.9,872.17,PayPal,64,Male,Austin,Texas,2
+10673,2023-08-28,9940,Pants Product 73,Clothing,Pants,173.47,2,346.94,0,0.0,346.94,Apple Pay,38,Female,Buffalo,New York,5
+10674,2023-08-28,9940,Appliances Product 89,Home & Kitchen,Appliances,724.34,1,724.34,0,0.0,724.34,PayPal,21,Female,Tampa,Florida,5
+10675,2023-08-29,9940,Cameras Product 37,Electronics,Cameras,360.19,1,360.19,5,18.01,342.18,Credit Card,56,Non-binary,Syracuse,New York,1
+10676,2023-08-30,9940,Shirts Product 70,Clothing,Shirts,99.95,2,199.9,0,0.0,199.9,Apple Pay,24,Female,Dallas,Texas,4
+10677,2023-08-30,9940,Accessories Product 8,Sports,Accessories,151.2,1,151.2,0,0.0,151.2,Credit Card,61,Female,Orlando,Florida,5
+10678,2023-08-30,9940,Dresses Product 71,Clothing,Dresses,83.83,2,167.66,5,8.38,159.28,PayPal,57,Female,San Antonio,Texas,4
+10679,2023-08-30,9940,Comics Product 86,Books,Comics,69.42,2,138.84,0,0.0,138.84,Bank Transfer,25,Non-binary,San Francisco,California,4
+10680,2023-08-31,9940,Accessories Product 27,Clothing,Accessories,183.24,2,366.48,0,0.0,366.48,Google Pay,57,Non-binary,Tallahassee,Florida,4
+10681,2023-08-31,3419,Footwear Product 41,Sports,Footwear,147.56,1,147.56,10,14.76,132.8,Bank Transfer,65,Male,Buffalo,New York,5
+10682,2023-09-01,3702,Tablets Product 54,Electronics,Tablets,751.97,1,751.97,0,0.0,751.97,Bank Transfer,34,Male,Peoria,Illinois,3
+10683,2023-09-03,9567,Equipment Product 30,Sports,Equipment,463.14,1,463.14,0,0.0,463.14,Bank Transfer,23,Female,Orlando,Florida,3
+10684,2023-09-03,9567,Cookware Product 67,Home & Kitchen,Cookware,652.79,1,652.79,20,130.56,522.23,Google Pay,65,Female,Houston,Texas,4
+10685,2023-09-04,9567,Smartphones Product 72,Electronics,Smartphones,1041.62,1,1041.62,0,0.0,1041.62,Credit Card,41,Non-binary,Fort Worth,Texas,1
+10686,2023-09-04,1792,Laptops Product 80,Electronics,Laptops,361.19,1,361.19,5,18.06,343.13,Credit Card,38,Male,Austin,Texas,2
+10687,2023-09-04,4459,Headphones Product 11,Electronics,Headphones,1727.76,1,1727.76,0,0.0,1727.76,Credit Card,60,Female,Syracuse,New York,3
+10688,2023-09-04,4396,Bedding Product 75,Home & Kitchen,Bedding,133.68,1,133.68,5,6.68,127.0,Google Pay,48,Non-binary,Tampa,Florida,3
+10689,2023-09-04,5024,Pants Product 82,Clothing,Pants,43.96,4,175.84,0,0.0,175.84,Apple Pay,65,Female,Jacksonville,Florida,5
+10690,2023-09-04,5024,Educational Product 75,Books,Educational,81.7,1,81.7,5,4.08,77.62,Credit Card,21,Non-binary,Jacksonville,Florida,3
+10691,2023-09-06,5024,Dresses Product 17,Clothing,Dresses,199.27,2,398.54,0,0.0,398.54,Bank Transfer,54,Male,San Francisco,California,3
+10692,2023-09-06,5024,Headphones Product 16,Electronics,Headphones,486.12,2,972.24,0,0.0,972.24,Bank Transfer,36,Female,Orlando,Florida,4
+10693,2023-09-06,8308,Bedding Product 18,Home & Kitchen,Bedding,53.25,4,213.0,0,0.0,213.0,Bank Transfer,18,Female,Tallahassee,Florida,2
+10694,2023-09-06,8308,Fiction Product 25,Books,Fiction,39.51,1,39.51,5,1.98,37.53,Apple Pay,51,Non-binary,Houston,Texas,4
+10695,2023-09-07,8308,Tablets Product 95,Electronics,Tablets,1581.1,1,1581.1,20,316.22,1264.88,Apple Pay,71,Non-binary,Albany,New York,5
+10696,2023-09-07,8671,Cameras Product 18,Electronics,Cameras,1922.03,1,1922.03,0,0.0,1922.03,Credit Card,61,Male,Orlando,Florida,5
+10697,2023-09-07,4585,Tablets Product 14,Electronics,Tablets,872.16,1,872.16,0,0.0,872.16,PayPal,43,Non-binary,Orlando,Florida,4
+10698,2023-09-08,7755,Non-fiction Product 33,Books,Non-fiction,55.81,1,55.81,0,0.0,55.81,PayPal,41,Non-binary,Springfield,Illinois,5
+10699,2023-09-08,9260,Cookware Product 60,Home & Kitchen,Cookware,579.7,1,579.7,0,0.0,579.7,Apple Pay,57,Non-binary,San Antonio,Texas,4
+10700,2023-09-09,9260,Furniture Product 36,Home & Kitchen,Furniture,420.18,1,420.18,5,21.01,399.17,Apple Pay,74,Female,Syracuse,New York,2
+10701,2023-09-09,4832,Fiction Product 24,Books,Fiction,36.73,4,146.92,0,0.0,146.92,Bank Transfer,27,Male,Rockford,Illinois,5
+10702,2023-09-09,6674,Fiction Product 5,Books,Fiction,16.25,1,16.25,0,0.0,16.25,Bank Transfer,65,Female,New York City,New York,3
+10703,2023-09-09,9861,Bedding Product 28,Home & Kitchen,Bedding,925.84,1,925.84,0,0.0,925.84,Bank Transfer,74,Female,Chicago,Illinois,5
+10704,2023-09-09,9861,Accessories Product 60,Sports,Accessories,458.59,1,458.59,5,22.93,435.66,Bank Transfer,53,Non-binary,Austin,Texas,5
+10705,2023-09-09,9861,Cameras Product 16,Electronics,Cameras,1898.24,1,1898.24,0,0.0,1898.24,Credit Card,34,Female,Orlando,Florida,2
+10706,2023-09-09,9861,Tablets Product 9,Electronics,Tablets,1214.69,1,1214.69,0,0.0,1214.69,PayPal,70,Female,Dallas,Texas,4
+10707,2023-09-10,9861,Dresses Product 53,Clothing,Dresses,175.03,2,350.06,5,17.5,332.56,Apple Pay,57,Male,Springfield,Illinois,2
+10708,2023-09-10,9861,Laptops Product 96,Electronics,Laptops,1636.83,1,1636.83,0,0.0,1636.83,PayPal,45,Female,Los Angeles,California,4
+10709,2023-09-10,9861,Bedding Product 19,Home & Kitchen,Bedding,990.0,1,990.0,0,0.0,990.0,Credit Card,54,Male,Tallahassee,Florida,3
+10710,2023-09-10,9861,Fitness Product 34,Sports,Fitness,249.23,1,249.23,15,37.38,211.85,Google Pay,18,Non-binary,San Francisco,California,4
+10711,2023-09-10,9861,Laptops Product 20,Electronics,Laptops,941.78,1,941.78,0,0.0,941.78,PayPal,43,Male,Orlando,Florida,5
+10712,2023-09-10,9861,Cameras Product 18,Electronics,Cameras,311.17,1,311.17,0,0.0,311.17,Bank Transfer,32,Non-binary,San Jose,California,3
+10713,2023-09-11,9861,Bedding Product 76,Home & Kitchen,Bedding,55.8,1,55.8,0,0.0,55.8,PayPal,42,Male,Austin,Texas,3
+10714,2023-09-11,9861,Footwear Product 60,Sports,Footwear,477.78,1,477.78,0,0.0,477.78,Bank Transfer,42,Female,Syracuse,New York,5
+10715,2023-09-11,9861,Shoes Product 12,Clothing,Shoes,48.33,2,96.66,15,14.5,82.16,Google Pay,60,Female,New York City,New York,2
+10716,2023-09-12,5367,Decor Product 47,Home & Kitchen,Decor,712.04,1,712.04,0,0.0,712.04,PayPal,73,Male,Buffalo,New York,1
+10717,2023-09-12,7641,Tablets Product 77,Electronics,Tablets,1797.1,1,1797.1,0,0.0,1797.1,Google Pay,31,Female,Albany,New York,4
+10718,2023-09-12,7641,Smartphones Product 28,Electronics,Smartphones,1528.24,1,1528.24,0,0.0,1528.24,Credit Card,47,Female,Miami,Florida,4
+10719,2023-09-13,4965,Footwear Product 37,Sports,Footwear,250.94,1,250.94,5,12.55,238.39,PayPal,42,Female,Jacksonville,Florida,5
+10720,2023-09-13,7013,Footwear Product 38,Sports,Footwear,72.87,2,145.74,0,0.0,145.74,Bank Transfer,46,Female,Houston,Texas,1
+10721,2023-09-14,7013,Laptops Product 65,Electronics,Laptops,739.08,1,739.08,0,0.0,739.08,Credit Card,75,Male,Tallahassee,Florida,5
+10722,2023-09-14,7013,Equipment Product 24,Sports,Equipment,148.01,1,148.01,0,0.0,148.01,Apple Pay,35,Non-binary,Syracuse,New York,2
+10723,2023-09-14,7013,Decor Product 45,Home & Kitchen,Decor,24.74,3,74.22,5,3.71,70.51,Apple Pay,66,Female,Rochester,New York,5
+10724,2023-09-15,7013,Footwear Product 56,Sports,Footwear,46.2,2,92.4,0,0.0,92.4,Bank Transfer,49,Male,Tallahassee,Florida,2
+10725,2023-09-15,7013,Appliances Product 48,Home & Kitchen,Appliances,414.33,1,414.33,0,0.0,414.33,Apple Pay,47,Non-binary,Jacksonville,Florida,5
+10726,2023-09-16,7013,Decor Product 6,Home & Kitchen,Decor,329.97,1,329.97,0,0.0,329.97,PayPal,68,Male,Albany,New York,2
+10727,2023-09-16,7013,Bedding Product 92,Home & Kitchen,Bedding,399.93,1,399.93,0,0.0,399.93,Apple Pay,45,Non-binary,Buffalo,New York,4
+10728,2023-09-16,7013,Furniture Product 19,Home & Kitchen,Furniture,675.77,1,675.77,5,33.79,641.98,Google Pay,53,Non-binary,Chicago,Illinois,5
+10729,2023-09-16,7013,Smartphones Product 48,Electronics,Smartphones,1443.69,1,1443.69,0,0.0,1443.69,Google Pay,59,Female,Rochester,New York,5
+10730,2023-09-16,7013,Smartphones Product 3,Electronics,Smartphones,652.83,1,652.83,0,0.0,652.83,Bank Transfer,73,Female,Chicago,Illinois,3
+10731,2023-09-16,7013,Shirts Product 68,Clothing,Shirts,107.2,3,321.6,0,0.0,321.6,Google Pay,54,Male,Jacksonville,Florida,4
+10732,2023-09-17,7013,Biographies Product 39,Books,Biographies,40.37,1,40.37,0,0.0,40.37,Google Pay,35,Male,Rockford,Illinois,4
+10733,2023-09-17,7013,Laptops Product 51,Electronics,Laptops,631.7,2,1263.4,0,0.0,1263.4,Bank Transfer,42,Non-binary,Syracuse,New York,5
+10734,2023-09-18,7013,Appliances Product 100,Home & Kitchen,Appliances,810.29,1,810.29,0,0.0,810.29,PayPal,64,Non-binary,New York City,New York,5
+10735,2023-09-18,8143,Fitness Product 38,Sports,Fitness,273.47,3,820.41,0,0.0,820.41,Google Pay,62,Female,New York City,New York,1
+10736,2023-09-19,6893,Tablets Product 41,Electronics,Tablets,486.09,1,486.09,0,0.0,486.09,Credit Card,31,Male,Tampa,Florida,3
+10737,2023-09-19,4605,Bedding Product 90,Home & Kitchen,Bedding,173.86,1,173.86,0,0.0,173.86,PayPal,66,Non-binary,San Diego,California,3
+10738,2023-09-20,4605,Shirts Product 9,Clothing,Shirts,88.34,2,176.68,20,35.34,141.34,Bank Transfer,75,Female,Syracuse,New York,4
+10739,2023-09-21,4605,Fitness Product 31,Sports,Fitness,329.82,1,329.82,0,0.0,329.82,Apple Pay,55,Female,New York City,New York,5
+10740,2023-09-21,4605,Tablets Product 20,Electronics,Tablets,1910.1,1,1910.1,0,0.0,1910.1,PayPal,69,Non-binary,Los Angeles,California,4
+10741,2023-09-21,7208,Cookware Product 58,Home & Kitchen,Cookware,140.31,1,140.31,5,7.02,133.29,PayPal,42,Female,Peoria,Illinois,4
+10742,2023-09-21,4801,Biographies Product 66,Books,Biographies,75.13,3,225.39,0,0.0,225.39,Credit Card,20,Non-binary,Naperville,Illinois,3
+10743,2023-09-21,6519,Equipment Product 72,Sports,Equipment,171.57,2,343.14,0,0.0,343.14,Google Pay,54,Non-binary,Los Angeles,California,3
+10744,2023-09-21,8390,Furniture Product 51,Home & Kitchen,Furniture,447.73,2,895.46,0,0.0,895.46,PayPal,43,Female,Fort Worth,Texas,3
+10745,2023-09-22,9098,Bedding Product 38,Home & Kitchen,Bedding,749.5,1,749.5,0,0.0,749.5,Credit Card,43,Male,Fort Worth,Texas,5
+10746,2023-09-22,3275,Decor Product 2,Home & Kitchen,Decor,957.9,1,957.9,0,0.0,957.9,Apple Pay,42,Male,Sacramento,California,1
+10747,2023-09-24,3275,Accessories Product 95,Sports,Accessories,188.92,2,377.84,0,0.0,377.84,Google Pay,42,Male,Syracuse,New York,5
+10748,2023-09-24,3275,Decor Product 84,Home & Kitchen,Decor,122.41,2,244.82,0,0.0,244.82,PayPal,36,Non-binary,Rochester,New York,4
+10749,2023-09-25,3275,Laptops Product 81,Electronics,Laptops,379.53,1,379.53,0,0.0,379.53,Google Pay,20,Female,Orlando,Florida,5
+10750,2023-09-25,3275,Equipment Product 14,Sports,Equipment,159.45,1,159.45,10,15.95,143.5,Apple Pay,46,Female,Jacksonville,Florida,4
+10751,2023-09-25,3275,Bedding Product 100,Home & Kitchen,Bedding,725.03,1,725.03,0,0.0,725.03,Google Pay,25,Non-binary,Syracuse,New York,4
+10752,2023-09-25,8828,Cookware Product 58,Home & Kitchen,Cookware,164.33,2,328.66,10,32.87,295.79,PayPal,25,Male,San Jose,California,1
+10753,2023-09-25,7832,Headphones Product 4,Electronics,Headphones,965.07,2,1930.14,0,0.0,1930.14,Apple Pay,50,Non-binary,Peoria,Illinois,2
+10754,2023-09-26,9519,Appliances Product 29,Home & Kitchen,Appliances,488.45,1,488.45,0,0.0,488.45,PayPal,51,Non-binary,Syracuse,New York,2
+10755,2023-09-27,6345,Dresses Product 16,Clothing,Dresses,187.59,1,187.59,5,9.38,178.21,Apple Pay,57,Non-binary,Dallas,Texas,4
+10756,2023-09-28,6345,Appliances Product 45,Home & Kitchen,Appliances,283.99,1,283.99,0,0.0,283.99,Bank Transfer,39,Female,San Jose,California,3
+10757,2023-09-28,6345,Laptops Product 66,Electronics,Laptops,1024.12,1,1024.12,5,51.21,972.91,Google Pay,64,Male,Sacramento,California,3
+10758,2023-09-28,6345,Bedding Product 75,Home & Kitchen,Bedding,514.63,1,514.63,5,25.73,488.9,Google Pay,59,Male,Houston,Texas,3
+10759,2023-09-28,6345,Fitness Product 29,Sports,Fitness,266.12,1,266.12,20,53.22,212.9,Credit Card,18,Non-binary,San Diego,California,4
+10760,2023-09-29,6345,Smartphones Product 95,Electronics,Smartphones,1566.7,1,1566.7,0,0.0,1566.7,Google Pay,29,Non-binary,Peoria,Illinois,4
+10761,2023-09-29,6345,Footwear Product 88,Sports,Footwear,183.69,2,367.38,0,0.0,367.38,Bank Transfer,47,Male,Los Angeles,California,4
+10762,2023-09-30,6345,Shoes Product 65,Clothing,Shoes,107.54,1,107.54,0,0.0,107.54,Credit Card,39,Female,Tallahassee,Florida,3
+10763,2023-09-30,6345,Apparel Product 39,Sports,Apparel,496.9,2,993.8,15,149.07,844.73,Apple Pay,66,Male,Orlando,Florida,4
+10764,2023-09-30,6345,Comics Product 58,Books,Comics,48.39,2,96.78,0,0.0,96.78,Credit Card,27,Female,Houston,Texas,1
+10765,2023-09-30,5860,Furniture Product 71,Home & Kitchen,Furniture,686.46,1,686.46,15,102.97,583.49,Google Pay,55,Female,San Jose,California,3
+10766,2023-10-01,1491,Bedding Product 57,Home & Kitchen,Bedding,604.75,1,604.75,20,120.95,483.8,Bank Transfer,45,Male,Springfield,Illinois,4
+10767,2023-10-01,1491,Educational Product 43,Books,Educational,75.67,1,75.67,5,3.78,71.89,PayPal,26,Male,Fort Worth,Texas,5
+10768,2023-10-02,1491,Shirts Product 59,Clothing,Shirts,159.97,2,319.94,0,0.0,319.94,Credit Card,38,Male,Los Angeles,California,4
+10769,2023-10-02,1491,Headphones Product 87,Electronics,Headphones,484.46,1,484.46,10,48.45,436.01,Bank Transfer,65,Non-binary,Buffalo,New York,5
+10770,2023-10-02,1491,Cookware Product 80,Home & Kitchen,Cookware,466.86,1,466.86,5,23.34,443.52,Google Pay,50,Non-binary,San Francisco,California,4
+10771,2023-10-04,1491,Biographies Product 72,Books,Biographies,37.68,1,37.68,0,0.0,37.68,PayPal,70,Female,Los Angeles,California,3
+10772,2023-10-04,1491,Bedding Product 39,Home & Kitchen,Bedding,610.41,1,610.41,5,30.52,579.89,Credit Card,31,Non-binary,San Diego,California,5
+10773,2023-10-04,1491,Furniture Product 16,Home & Kitchen,Furniture,152.48,2,304.96,0,0.0,304.96,PayPal,20,Female,Syracuse,New York,4
+10774,2023-10-04,1491,Accessories Product 37,Clothing,Accessories,103.62,3,310.86,0,0.0,310.86,Apple Pay,31,Male,Syracuse,New York,4
+10775,2023-10-04,1491,Non-fiction Product 11,Books,Non-fiction,60.36,2,120.72,0,0.0,120.72,Google Pay,62,Non-binary,Naperville,Illinois,4
+10776,2023-10-04,1491,Smartphones Product 93,Electronics,Smartphones,1295.79,2,2591.58,20,518.32,2073.26,Credit Card,66,Non-binary,Naperville,Illinois,5
+10777,2023-10-05,1491,Pants Product 15,Clothing,Pants,122.29,2,244.58,15,36.69,207.89,Bank Transfer,70,Female,Tampa,Florida,3
+10778,2023-10-06,1491,Tablets Product 9,Electronics,Tablets,1012.72,1,1012.72,15,151.91,860.81,Credit Card,28,Male,Albany,New York,2
+10779,2023-10-06,1491,Smartphones Product 63,Electronics,Smartphones,674.02,1,674.02,15,101.1,572.92,Google Pay,49,Non-binary,Peoria,Illinois,3
+10780,2023-10-07,1491,Tablets Product 80,Electronics,Tablets,235.22,2,470.44,0,0.0,470.44,PayPal,37,Female,Naperville,Illinois,5
+10781,2023-10-07,1491,Laptops Product 97,Electronics,Laptops,1986.2,2,3972.4,0,0.0,3972.4,PayPal,23,Non-binary,Houston,Texas,3
+10782,2023-10-07,1491,Appliances Product 38,Home & Kitchen,Appliances,405.67,2,811.34,0,0.0,811.34,PayPal,51,Non-binary,Orlando,Florida,5
+10783,2023-10-07,1491,Laptops Product 39,Electronics,Laptops,1181.12,1,1181.12,5,59.06,1122.06,Bank Transfer,33,Female,Springfield,Illinois,5
+10784,2023-10-07,1491,Shirts Product 59,Clothing,Shirts,45.48,2,90.96,0,0.0,90.96,Credit Card,23,Female,Sacramento,California,2
+10785,2023-10-08,1491,Tablets Product 21,Electronics,Tablets,1738.0,1,1738.0,0,0.0,1738.0,Credit Card,59,Non-binary,Austin,Texas,5
+10786,2023-10-08,1491,Headphones Product 28,Electronics,Headphones,442.19,1,442.19,5,22.11,420.08,Apple Pay,69,Non-binary,San Diego,California,5
+10787,2023-10-09,2169,Cameras Product 68,Electronics,Cameras,300.08,1,300.08,0,0.0,300.08,Credit Card,46,Female,Springfield,Illinois,4
+10788,2023-10-09,2169,Laptops Product 2,Electronics,Laptops,1291.52,1,1291.52,0,0.0,1291.52,Credit Card,54,Female,Dallas,Texas,2
+10789,2023-10-09,1404,Bedding Product 24,Home & Kitchen,Bedding,239.55,1,239.55,0,0.0,239.55,Apple Pay,39,Male,Tampa,Florida,4
+10790,2023-10-10,2493,Decor Product 53,Home & Kitchen,Decor,670.07,1,670.07,0,0.0,670.07,Credit Card,68,Non-binary,Syracuse,New York,2
+10791,2023-10-10,7026,Decor Product 57,Home & Kitchen,Decor,534.53,1,534.53,0,0.0,534.53,Apple Pay,47,Non-binary,Syracuse,New York,4
+10792,2023-10-10,8775,Dresses Product 91,Clothing,Dresses,99.71,2,199.42,0,0.0,199.42,Google Pay,29,Non-binary,Buffalo,New York,1
+10793,2023-10-10,8775,Smartphones Product 53,Electronics,Smartphones,1507.39,1,1507.39,5,75.37,1432.02,Credit Card,35,Non-binary,Rockford,Illinois,3
+10794,2023-10-10,8775,Educational Product 56,Books,Educational,67.55,2,135.1,0,0.0,135.1,Apple Pay,58,Male,Miami,Florida,4
+10795,2023-10-11,8775,Accessories Product 96,Clothing,Accessories,195.77,1,195.77,5,9.79,185.98,Google Pay,57,Male,Rockford,Illinois,4
+10796,2023-10-11,8775,Shoes Product 50,Clothing,Shoes,166.19,3,498.57,5,24.93,473.64,Google Pay,75,Male,Peoria,Illinois,5
+10797,2023-10-11,8775,Cameras Product 91,Electronics,Cameras,1275.5,1,1275.5,10,127.55,1147.95,PayPal,74,Non-binary,Chicago,Illinois,4
+10798,2023-10-11,8775,Smartphones Product 64,Electronics,Smartphones,1429.26,1,1429.26,5,71.46,1357.8,Bank Transfer,26,Male,Springfield,Illinois,3
+10799,2023-10-12,8775,Laptops Product 65,Electronics,Laptops,1777.91,2,3555.82,0,0.0,3555.82,Apple Pay,55,Male,San Jose,California,4
+10800,2023-10-12,8775,Cameras Product 72,Electronics,Cameras,1598.41,1,1598.41,5,79.92,1518.49,Credit Card,26,Male,San Jose,California,5
+10801,2023-10-12,8775,Accessories Product 11,Clothing,Accessories,88.79,3,266.37,20,53.27,213.1,Credit Card,63,Non-binary,San Antonio,Texas,4
+10802,2023-10-13,8775,Dresses Product 42,Clothing,Dresses,112.28,3,336.84,10,33.68,303.16,Apple Pay,44,Female,Albany,New York,4
+10803,2023-10-13,8775,Furniture Product 40,Home & Kitchen,Furniture,325.39,1,325.39,5,16.27,309.12,Apple Pay,31,Female,Miami,Florida,4
+10804,2023-10-13,8775,Appliances Product 8,Home & Kitchen,Appliances,391.47,1,391.47,0,0.0,391.47,Bank Transfer,38,Female,Peoria,Illinois,2
+10805,2023-10-13,8775,Comics Product 98,Books,Comics,28.8,2,57.6,0,0.0,57.6,Credit Card,28,Female,San Francisco,California,1
+10806,2023-10-13,8775,Furniture Product 86,Home & Kitchen,Furniture,344.7,1,344.7,0,0.0,344.7,Apple Pay,41,Non-binary,Springfield,Illinois,5
+10807,2023-10-15,8775,Equipment Product 79,Sports,Equipment,94.8,3,284.4,0,0.0,284.4,Bank Transfer,48,Female,Miami,Florida,4
+10808,2023-10-15,8775,Smartphones Product 31,Electronics,Smartphones,1634.69,1,1634.69,20,326.94,1307.75,Bank Transfer,51,Female,Jacksonville,Florida,3
+10809,2023-10-15,8775,Cameras Product 9,Electronics,Cameras,1877.93,2,3755.86,0,0.0,3755.86,Apple Pay,21,Male,Buffalo,New York,2
+10810,2023-10-16,2274,Headphones Product 64,Electronics,Headphones,1611.82,1,1611.82,5,80.59,1531.23,Bank Transfer,43,Female,Albany,New York,4
+10811,2023-10-16,2274,Bedding Product 2,Home & Kitchen,Bedding,485.29,3,1455.87,0,0.0,1455.87,Credit Card,18,Male,Naperville,Illinois,5
+10812,2023-10-16,2274,Biographies Product 17,Books,Biographies,30.67,3,92.01,0,0.0,92.01,Google Pay,24,Female,Houston,Texas,2
+10813,2023-10-16,2274,Tablets Product 64,Electronics,Tablets,1657.73,2,3315.46,0,0.0,3315.46,Credit Card,56,Non-binary,Naperville,Illinois,2
+10814,2023-10-16,2274,Apparel Product 60,Sports,Apparel,363.76,1,363.76,15,54.56,309.2,Bank Transfer,70,Male,Austin,Texas,2
+10815,2023-10-17,2274,Laptops Product 60,Electronics,Laptops,1344.15,1,1344.15,10,134.42,1209.73,Apple Pay,58,Female,Miami,Florida,4
+10816,2023-10-17,2274,Equipment Product 61,Sports,Equipment,116.97,1,116.97,5,5.85,111.12,Apple Pay,26,Non-binary,Tallahassee,Florida,5
+10817,2023-10-19,8525,Headphones Product 57,Electronics,Headphones,1613.6,2,3227.2,0,0.0,3227.2,Google Pay,74,Female,San Diego,California,3
+10818,2023-10-19,5845,Laptops Product 77,Electronics,Laptops,661.76,1,661.76,0,0.0,661.76,Credit Card,36,Female,Albany,New York,2
+10819,2023-10-20,7647,Shirts Product 24,Clothing,Shirts,16.88,1,16.88,0,0.0,16.88,Bank Transfer,47,Non-binary,San Diego,California,4
+10820,2023-10-20,7647,Cameras Product 78,Electronics,Cameras,1942.39,1,1942.39,0,0.0,1942.39,Google Pay,50,Non-binary,Fort Worth,Texas,4
+10821,2023-10-21,7647,Tablets Product 71,Electronics,Tablets,1655.79,2,3311.58,0,0.0,3311.58,Google Pay,43,Male,Sacramento,California,5
+10822,2023-10-21,2725,Cameras Product 99,Electronics,Cameras,672.31,1,672.31,0,0.0,672.31,Apple Pay,61,Female,Los Angeles,California,1
+10823,2023-10-21,2725,Biographies Product 89,Books,Biographies,70.11,1,70.11,0,0.0,70.11,Apple Pay,53,Non-binary,San Diego,California,5
+10824,2023-10-21,2725,Dresses Product 20,Clothing,Dresses,104.22,2,208.44,5,10.42,198.02,Credit Card,18,Female,Houston,Texas,3
+10825,2023-10-22,2725,Tablets Product 11,Electronics,Tablets,330.12,2,660.24,15,99.04,561.2,Google Pay,35,Female,Tampa,Florida,5
+10826,2023-10-23,2725,Appliances Product 1,Home & Kitchen,Appliances,938.89,1,938.89,15,140.83,798.06,Bank Transfer,38,Non-binary,Orlando,Florida,1
+10827,2023-10-25,2725,Appliances Product 55,Home & Kitchen,Appliances,751.28,1,751.28,0,0.0,751.28,Google Pay,20,Female,San Jose,California,5
+10828,2023-10-26,2725,Cameras Product 9,Electronics,Cameras,1852.82,1,1852.82,5,92.64,1760.18,PayPal,71,Male,Chicago,Illinois,3
+10829,2023-10-27,2725,Shirts Product 84,Clothing,Shirts,189.29,2,378.58,0,0.0,378.58,PayPal,57,Non-binary,Rockford,Illinois,4
+10830,2023-10-27,2725,Cameras Product 40,Electronics,Cameras,442.06,2,884.12,0,0.0,884.12,Credit Card,21,Female,Albany,New York,4
+10831,2023-10-28,2725,Tablets Product 29,Electronics,Tablets,979.33,1,979.33,10,97.93,881.4,PayPal,53,Non-binary,New York City,New York,2
+10832,2023-10-28,2725,Furniture Product 2,Home & Kitchen,Furniture,382.66,1,382.66,0,0.0,382.66,Bank Transfer,30,Male,Sacramento,California,5
+10833,2023-10-28,2725,Cameras Product 55,Electronics,Cameras,995.65,1,995.65,15,149.35,846.3,PayPal,46,Male,Fort Worth,Texas,5
+10834,2023-10-29,2725,Accessories Product 21,Clothing,Accessories,59.44,2,118.88,0,0.0,118.88,Credit Card,46,Female,Rochester,New York,5
+10835,2023-10-29,2725,Bedding Product 76,Home & Kitchen,Bedding,510.8,1,510.8,5,25.54,485.26,PayPal,41,Non-binary,Springfield,Illinois,1
+10836,2023-10-30,2725,Cameras Product 25,Electronics,Cameras,1569.64,1,1569.64,0,0.0,1569.64,Apple Pay,46,Non-binary,Peoria,Illinois,4
+10837,2023-10-30,2725,Shoes Product 21,Clothing,Shoes,21.94,3,65.82,5,3.29,62.53,Google Pay,44,Non-binary,Rochester,New York,5
+10838,2023-10-30,2725,Tablets Product 11,Electronics,Tablets,1804.32,2,3608.64,0,0.0,3608.64,Apple Pay,48,Female,Dallas,Texas,3
+10839,2023-10-30,2725,Footwear Product 98,Sports,Footwear,394.15,2,788.3,5,39.41,748.89,Credit Card,63,Male,Chicago,Illinois,5
+10840,2023-10-31,5111,Pants Product 4,Clothing,Pants,114.14,1,114.14,5,5.71,108.43,PayPal,57,Male,Houston,Texas,3
+10841,2023-10-31,9683,Biographies Product 52,Books,Biographies,68.17,1,68.17,0,0.0,68.17,Bank Transfer,69,Female,New York City,New York,5
+10842,2023-10-31,6901,Dresses Product 35,Clothing,Dresses,44.76,2,89.52,0,0.0,89.52,PayPal,52,Female,Los Angeles,California,3
+10843,2023-10-31,4453,Headphones Product 49,Electronics,Headphones,866.42,1,866.42,5,43.32,823.1,Apple Pay,26,Female,Rockford,Illinois,5
+10844,2023-10-31,6803,Bedding Product 99,Home & Kitchen,Bedding,579.56,1,579.56,0,0.0,579.56,Google Pay,29,Male,San Jose,California,5
+10845,2023-11-01,1474,Fitness Product 60,Sports,Fitness,165.31,1,165.31,10,16.53,148.78,Bank Transfer,47,Male,Peoria,Illinois,2
+10846,2023-11-01,8726,Decor Product 55,Home & Kitchen,Decor,87.05,1,87.05,5,4.35,82.7,Bank Transfer,65,Male,Los Angeles,California,2
+10847,2023-11-02,4680,Comics Product 32,Books,Comics,74.5,3,223.5,15,33.52,189.98,Credit Card,62,Non-binary,Springfield,Illinois,5
+10848,2023-11-02,4680,Comics Product 98,Books,Comics,90.38,2,180.76,5,9.04,171.72,Credit Card,48,Male,Orlando,Florida,3
+10849,2023-11-02,4680,Laptops Product 48,Electronics,Laptops,1074.93,1,1074.93,20,214.99,859.94,Google Pay,61,Female,San Antonio,Texas,5
+10850,2023-11-03,4680,Smartphones Product 69,Electronics,Smartphones,1841.33,1,1841.33,10,184.13,1657.2,PayPal,40,Non-binary,Los Angeles,California,5
+10851,2023-11-03,4680,Cookware Product 52,Home & Kitchen,Cookware,314.26,2,628.52,5,31.43,597.09,Apple Pay,52,Non-binary,Orlando,Florida,5
+10852,2023-11-04,4680,Dresses Product 83,Clothing,Dresses,20.04,1,20.04,0,0.0,20.04,Google Pay,57,Male,San Jose,California,4
+10853,2023-11-04,4680,Biographies Product 18,Books,Biographies,37.89,2,75.78,0,0.0,75.78,PayPal,68,Male,Tampa,Florida,3
+10854,2023-11-04,4680,Accessories Product 43,Sports,Accessories,204.07,2,408.14,0,0.0,408.14,Bank Transfer,46,Non-binary,San Francisco,California,4
+10855,2023-11-05,4680,Smartphones Product 10,Electronics,Smartphones,564.99,1,564.99,0,0.0,564.99,Google Pay,65,Female,Austin,Texas,4
+10856,2023-11-06,4680,Headphones Product 11,Electronics,Headphones,864.18,1,864.18,10,86.42,777.76,Google Pay,39,Male,Jacksonville,Florida,3
+10857,2023-11-06,4680,Decor Product 18,Home & Kitchen,Decor,889.49,1,889.49,0,0.0,889.49,Bank Transfer,21,Non-binary,San Jose,California,4
+10858,2023-11-07,4863,Headphones Product 70,Electronics,Headphones,1876.78,1,1876.78,0,0.0,1876.78,Credit Card,54,Female,San Antonio,Texas,3
+10859,2023-11-07,1103,Non-fiction Product 72,Books,Non-fiction,19.74,1,19.74,10,1.97,17.77,Credit Card,22,Non-binary,Miami,Florida,3
+10860,2023-11-07,7291,Pants Product 10,Clothing,Pants,147.96,1,147.96,0,0.0,147.96,Google Pay,43,Female,Orlando,Florida,3
+10861,2023-11-08,1615,Furniture Product 82,Home & Kitchen,Furniture,410.69,3,1232.07,10,123.21,1108.86,Credit Card,71,Female,Chicago,Illinois,5
+10862,2023-11-08,8132,Smartphones Product 58,Electronics,Smartphones,1455.92,1,1455.92,0,0.0,1455.92,Google Pay,26,Male,San Antonio,Texas,4
+10863,2023-11-08,6358,Appliances Product 67,Home & Kitchen,Appliances,297.44,2,594.88,0,0.0,594.88,Credit Card,31,Male,Buffalo,New York,3
+10864,2023-11-09,6358,Shirts Product 12,Clothing,Shirts,75.89,3,227.67,10,22.77,204.9,PayPal,48,Male,Springfield,Illinois,4
+10865,2023-11-09,6358,Dresses Product 53,Clothing,Dresses,102.07,2,204.14,10,20.41,183.73,Credit Card,64,Female,San Jose,California,4
+10866,2023-11-10,6358,Laptops Product 29,Electronics,Laptops,230.38,1,230.38,0,0.0,230.38,Google Pay,20,Female,Chicago,Illinois,3
+10867,2023-11-10,6358,Decor Product 96,Home & Kitchen,Decor,93.37,2,186.74,10,18.67,168.07,PayPal,53,Female,Jacksonville,Florida,4
+10868,2023-11-10,6358,Comics Product 76,Books,Comics,74.86,1,74.86,5,3.74,71.12,PayPal,53,Male,Orlando,Florida,4
+10869,2023-11-11,6358,Tablets Product 80,Electronics,Tablets,1346.38,1,1346.38,5,67.32,1279.06,Apple Pay,40,Non-binary,San Francisco,California,4
+10870,2023-11-11,4820,Smartphones Product 13,Electronics,Smartphones,1964.18,1,1964.18,10,196.42,1767.76,PayPal,30,Male,San Francisco,California,1
+10871,2023-11-11,4820,Smartphones Product 49,Electronics,Smartphones,409.31,1,409.31,5,20.47,388.84,PayPal,57,Female,Naperville,Illinois,5
+10872,2023-11-12,4820,Furniture Product 24,Home & Kitchen,Furniture,450.69,3,1352.07,0,0.0,1352.07,PayPal,70,Female,Rochester,New York,2
+10873,2023-11-12,4820,Bedding Product 4,Home & Kitchen,Bedding,548.05,2,1096.1,5,54.8,1041.3,Credit Card,75,Non-binary,San Francisco,California,3
+10874,2023-11-12,4820,Shirts Product 6,Clothing,Shirts,66.21,3,198.63,0,0.0,198.63,PayPal,42,Female,Syracuse,New York,2
+10875,2023-11-13,4820,Tablets Product 31,Electronics,Tablets,469.64,2,939.28,10,93.93,845.35,Bank Transfer,45,Non-binary,Naperville,Illinois,4
+10876,2023-11-13,4820,Laptops Product 16,Electronics,Laptops,1995.7,1,1995.7,5,99.79,1895.91,PayPal,50,Male,Jacksonville,Florida,5
+10877,2023-11-13,4820,Pants Product 70,Clothing,Pants,128.72,1,128.72,0,0.0,128.72,Google Pay,20,Non-binary,Springfield,Illinois,2
+10878,2023-11-13,4820,Pants Product 14,Clothing,Pants,100.95,1,100.95,0,0.0,100.95,Apple Pay,20,Female,Springfield,Illinois,5
+10879,2023-11-14,4820,Equipment Product 36,Sports,Equipment,30.2,1,30.2,5,1.51,28.69,Apple Pay,43,Non-binary,Dallas,Texas,4
+10880,2023-11-14,4765,Headphones Product 47,Electronics,Headphones,639.32,1,639.32,0,0.0,639.32,Google Pay,60,Female,Springfield,Illinois,5
+10881,2023-11-14,8431,Appliances Product 56,Home & Kitchen,Appliances,456.89,3,1370.67,15,205.6,1165.07,Credit Card,39,Male,Houston,Texas,5
+10882,2023-11-14,7359,Accessories Product 73,Clothing,Accessories,92.97,3,278.91,0,0.0,278.91,Bank Transfer,33,Female,Fort Worth,Texas,5
+10883,2023-11-15,7359,Pants Product 29,Clothing,Pants,174.98,1,174.98,0,0.0,174.98,Google Pay,18,Male,Springfield,Illinois,5
+10884,2023-11-15,9423,Furniture Product 28,Home & Kitchen,Furniture,708.27,1,708.27,0,0.0,708.27,Google Pay,34,Male,New York City,New York,5
+10885,2023-11-16,9423,Cookware Product 56,Home & Kitchen,Cookware,947.4,1,947.4,15,142.11,805.29,Google Pay,36,Non-binary,Houston,Texas,3
+10886,2023-11-16,9423,Equipment Product 62,Sports,Equipment,393.08,1,393.08,5,19.65,373.43,PayPal,39,Male,Orlando,Florida,4
+10887,2023-11-16,9423,Smartphones Product 40,Electronics,Smartphones,678.68,1,678.68,5,33.93,644.75,Credit Card,26,Non-binary,Springfield,Illinois,5
+10888,2023-11-17,9423,Headphones Product 4,Electronics,Headphones,637.33,1,637.33,0,0.0,637.33,Google Pay,25,Female,Sacramento,California,1
+10889,2023-11-17,1857,Furniture Product 8,Home & Kitchen,Furniture,77.13,1,77.13,0,0.0,77.13,Bank Transfer,69,Male,San Antonio,Texas,2
+10890,2023-11-18,8074,Shirts Product 30,Clothing,Shirts,147.09,1,147.09,5,7.35,139.74,Apple Pay,60,Female,Springfield,Illinois,5
+10891,2023-11-18,8074,Cameras Product 75,Electronics,Cameras,1193.43,2,2386.86,0,0.0,2386.86,Google Pay,41,Female,Dallas,Texas,5
+10892,2023-11-19,9721,Headphones Product 44,Electronics,Headphones,1930.81,1,1930.81,0,0.0,1930.81,Google Pay,36,Female,Austin,Texas,5
+10893,2023-11-19,2450,Cameras Product 20,Electronics,Cameras,1265.99,1,1265.99,5,63.3,1202.69,Apple Pay,73,Non-binary,Fort Worth,Texas,4
+10894,2023-11-19,1323,Educational Product 64,Books,Educational,19.05,4,76.2,5,3.81,72.39,Apple Pay,54,Male,Rockford,Illinois,5
+10895,2023-11-20,3369,Headphones Product 63,Electronics,Headphones,667.78,1,667.78,0,0.0,667.78,Google Pay,19,Non-binary,Rockford,Illinois,4
+10896,2023-11-20,4491,Tablets Product 97,Electronics,Tablets,346.77,1,346.77,0,0.0,346.77,Apple Pay,68,Non-binary,Jacksonville,Florida,2
+10897,2023-11-21,4413,Laptops Product 21,Electronics,Laptops,215.36,2,430.72,0,0.0,430.72,Google Pay,41,Male,Jacksonville,Florida,5
+10898,2023-11-21,4413,Laptops Product 95,Electronics,Laptops,1793.56,2,3587.12,0,0.0,3587.12,Bank Transfer,54,Non-binary,Albany,New York,3
+10899,2023-11-21,4668,Smartphones Product 4,Electronics,Smartphones,423.29,1,423.29,20,84.66,338.63,Apple Pay,50,Male,Springfield,Illinois,3
+10900,2023-11-22,5369,Shoes Product 56,Clothing,Shoes,125.64,1,125.64,10,12.56,113.08,Apple Pay,63,Male,San Francisco,California,4
+10901,2023-11-22,3518,Cameras Product 66,Electronics,Cameras,1368.99,1,1368.99,0,0.0,1368.99,Credit Card,59,Male,Jacksonville,Florida,3
+10902,2023-11-22,9460,Educational Product 41,Books,Educational,76.52,2,153.04,10,15.3,137.74,Bank Transfer,34,Female,Rochester,New York,3
+10903,2023-11-22,4458,Cameras Product 44,Electronics,Cameras,835.77,1,835.77,5,41.79,793.98,Credit Card,27,Non-binary,Orlando,Florida,4
+10904,2023-11-23,4458,Shoes Product 51,Clothing,Shoes,158.53,1,158.53,0,0.0,158.53,Credit Card,59,Non-binary,San Antonio,Texas,4
+10905,2023-11-23,1154,Biographies Product 45,Books,Biographies,70.71,1,70.71,0,0.0,70.71,PayPal,70,Female,Peoria,Illinois,5
+10906,2023-11-23,1154,Furniture Product 37,Home & Kitchen,Furniture,606.76,1,606.76,15,91.01,515.75,PayPal,41,Female,Austin,Texas,3
+10907,2023-11-24,1154,Dresses Product 47,Clothing,Dresses,72.74,1,72.74,10,7.27,65.47,PayPal,71,Non-binary,Buffalo,New York,2
+10908,2023-11-25,1291,Smartphones Product 49,Electronics,Smartphones,1586.8,1,1586.8,0,0.0,1586.8,Credit Card,60,Female,Fort Worth,Texas,3
+10909,2023-11-26,1291,Smartphones Product 8,Electronics,Smartphones,1725.84,1,1725.84,10,172.58,1553.26,Google Pay,31,Non-binary,Albany,New York,2
+10910,2023-11-26,1423,Decor Product 72,Home & Kitchen,Decor,350.15,1,350.15,15,52.52,297.63,Apple Pay,72,Male,Chicago,Illinois,5
+10911,2023-11-26,8824,Accessories Product 34,Sports,Accessories,334.55,1,334.55,0,0.0,334.55,Google Pay,36,Non-binary,Los Angeles,California,4
+10912,2023-11-27,3807,Cookware Product 69,Home & Kitchen,Cookware,585.66,2,1171.32,0,0.0,1171.32,Google Pay,24,Male,San Jose,California,3
+10913,2023-11-27,9439,Pants Product 92,Clothing,Pants,53.12,2,106.24,0,0.0,106.24,Apple Pay,72,Non-binary,Jacksonville,Florida,4
+10914,2023-11-27,9439,Cookware Product 96,Home & Kitchen,Cookware,209.21,2,418.42,5,20.92,397.5,Credit Card,31,Female,Rockford,Illinois,2
+10915,2023-11-27,9439,Shirts Product 47,Clothing,Shirts,77.47,2,154.94,0,0.0,154.94,Apple Pay,56,Non-binary,Fort Worth,Texas,5
+10916,2023-11-29,9439,Cameras Product 28,Electronics,Cameras,1498.12,2,2996.24,0,0.0,2996.24,Google Pay,19,Female,Peoria,Illinois,2
+10917,2023-12-01,9439,Accessories Product 70,Clothing,Accessories,145.66,3,436.98,0,0.0,436.98,Bank Transfer,22,Male,Houston,Texas,4
+10918,2023-12-01,9439,Footwear Product 16,Sports,Footwear,437.59,2,875.18,0,0.0,875.18,Bank Transfer,75,Non-binary,San Jose,California,5
+10919,2023-12-01,9439,Headphones Product 99,Electronics,Headphones,1558.54,1,1558.54,15,233.78,1324.76,Credit Card,71,Non-binary,Houston,Texas,2
+10920,2023-12-01,9439,Bedding Product 23,Home & Kitchen,Bedding,852.12,1,852.12,15,127.82,724.3,Credit Card,26,Male,Buffalo,New York,5
+10921,2023-12-02,9439,Tablets Product 36,Electronics,Tablets,423.43,1,423.43,10,42.34,381.09,Apple Pay,70,Non-binary,Chicago,Illinois,4
+10922,2023-12-02,9439,Pants Product 54,Clothing,Pants,183.66,1,183.66,10,18.37,165.29,Credit Card,55,Non-binary,Sacramento,California,4
+10923,2023-12-03,9439,Tablets Product 33,Electronics,Tablets,625.56,1,625.56,0,0.0,625.56,Credit Card,44,Male,Albany,New York,4
+10924,2023-12-03,9439,Accessories Product 10,Clothing,Accessories,21.2,2,42.4,0,0.0,42.4,Credit Card,50,Female,San Francisco,California,3
+10925,2023-12-04,9439,Furniture Product 4,Home & Kitchen,Furniture,558.24,1,558.24,0,0.0,558.24,Apple Pay,71,Non-binary,San Francisco,California,2
+10926,2023-12-04,9439,Headphones Product 92,Electronics,Headphones,1766.99,2,3533.98,5,176.7,3357.28,Credit Card,44,Male,Los Angeles,California,3
+10927,2023-12-04,9439,Furniture Product 79,Home & Kitchen,Furniture,861.32,2,1722.64,0,0.0,1722.64,Credit Card,37,Male,Miami,Florida,5
+10928,2023-12-04,3324,Decor Product 61,Home & Kitchen,Decor,142.11,3,426.33,0,0.0,426.33,PayPal,39,Male,Houston,Texas,5
+10929,2023-12-05,5878,Footwear Product 1,Sports,Footwear,402.14,2,804.28,5,40.21,764.07,Credit Card,73,Male,Springfield,Illinois,3
+10930,2023-12-05,5878,Tablets Product 36,Electronics,Tablets,433.83,3,1301.49,0,0.0,1301.49,Apple Pay,68,Non-binary,Orlando,Florida,4
+10931,2023-12-06,5878,Cameras Product 47,Electronics,Cameras,1531.75,1,1531.75,0,0.0,1531.75,Bank Transfer,25,Male,New York City,New York,5
+10932,2023-12-06,5878,Cameras Product 60,Electronics,Cameras,1015.51,2,2031.02,20,406.2,1624.82,Apple Pay,41,Male,San Antonio,Texas,4
+10933,2023-12-06,5878,Footwear Product 12,Sports,Footwear,466.02,2,932.04,20,186.41,745.63,PayPal,51,Male,Sacramento,California,2
+10934,2023-12-06,5878,Fitness Product 46,Sports,Fitness,265.68,1,265.68,5,13.28,252.4,Credit Card,36,Female,Naperville,Illinois,4
+10935,2023-12-06,5878,Pants Product 28,Clothing,Pants,101.65,1,101.65,0,0.0,101.65,Google Pay,49,Male,Rockford,Illinois,5
+10936,2023-12-07,5878,Educational Product 90,Books,Educational,42.18,4,168.72,0,0.0,168.72,Google Pay,46,Non-binary,Tampa,Florida,5
+10937,2023-12-07,5878,Accessories Product 22,Clothing,Accessories,19.22,3,57.66,5,2.88,54.78,Credit Card,71,Female,Los Angeles,California,3
+10938,2023-12-07,5878,Appliances Product 9,Home & Kitchen,Appliances,454.78,2,909.56,0,0.0,909.56,Bank Transfer,61,Non-binary,Jacksonville,Florida,4
+10939,2023-12-08,5878,Smartphones Product 6,Electronics,Smartphones,1818.28,1,1818.28,0,0.0,1818.28,Apple Pay,25,Non-binary,Buffalo,New York,3
+10940,2023-12-08,3319,Furniture Product 91,Home & Kitchen,Furniture,752.18,2,1504.36,10,150.44,1353.92,Google Pay,75,Male,Albany,New York,3
+10941,2023-12-08,8580,Cameras Product 5,Electronics,Cameras,1712.21,1,1712.21,5,85.61,1626.6,PayPal,73,Female,Austin,Texas,3
+10942,2023-12-08,8580,Non-fiction Product 62,Books,Non-fiction,44.06,2,88.12,0,0.0,88.12,Apple Pay,56,Female,Orlando,Florida,4
+10943,2023-12-08,8580,Decor Product 26,Home & Kitchen,Decor,221.47,1,221.47,10,22.15,199.32,PayPal,26,Non-binary,Fort Worth,Texas,5
+10944,2023-12-08,8580,Appliances Product 47,Home & Kitchen,Appliances,863.87,2,1727.74,0,0.0,1727.74,Apple Pay,30,Female,Syracuse,New York,4
+10945,2023-12-09,8580,Smartphones Product 80,Electronics,Smartphones,209.05,1,209.05,0,0.0,209.05,Google Pay,68,Female,Jacksonville,Florida,3
+10946,2023-12-10,8580,Laptops Product 23,Electronics,Laptops,775.37,1,775.37,0,0.0,775.37,Bank Transfer,45,Male,San Diego,California,4
+10947,2023-12-10,1089,Smartphones Product 30,Electronics,Smartphones,1068.37,1,1068.37,0,0.0,1068.37,PayPal,71,Non-binary,Austin,Texas,4
+10948,2023-12-11,1277,Smartphones Product 85,Electronics,Smartphones,1992.77,1,1992.77,0,0.0,1992.77,PayPal,49,Non-binary,Tallahassee,Florida,5
+10949,2023-12-11,6785,Tablets Product 18,Electronics,Tablets,1726.58,1,1726.58,0,0.0,1726.58,Google Pay,49,Male,Tampa,Florida,5
+10950,2023-12-12,6785,Apparel Product 9,Sports,Apparel,225.99,2,451.98,0,0.0,451.98,Google Pay,75,Male,Miami,Florida,1
+10951,2023-12-12,5291,Accessories Product 58,Clothing,Accessories,47.59,4,190.36,0,0.0,190.36,Google Pay,72,Male,New York City,New York,4
+10952,2023-12-12,5291,Tablets Product 79,Electronics,Tablets,1288.92,1,1288.92,0,0.0,1288.92,Credit Card,30,Male,San Francisco,California,5
+10953,2023-12-12,5291,Smartphones Product 44,Electronics,Smartphones,686.35,1,686.35,0,0.0,686.35,Bank Transfer,64,Non-binary,Los Angeles,California,5
+10954,2023-12-12,5291,Accessories Product 13,Clothing,Accessories,115.62,1,115.62,5,5.78,109.84,Credit Card,30,Non-binary,Naperville,Illinois,4
+10955,2023-12-12,5291,Cookware Product 77,Home & Kitchen,Cookware,884.08,1,884.08,0,0.0,884.08,Apple Pay,29,Non-binary,Chicago,Illinois,1
+10956,2023-12-12,8585,Shoes Product 36,Clothing,Shoes,62.67,1,62.67,5,3.13,59.54,Google Pay,46,Male,Sacramento,California,1
+10957,2023-12-13,8585,Accessories Product 78,Sports,Accessories,384.14,1,384.14,0,0.0,384.14,Google Pay,46,Female,Dallas,Texas,4
+10958,2023-12-14,8585,Shirts Product 38,Clothing,Shirts,25.12,2,50.24,0,0.0,50.24,Google Pay,28,Non-binary,Albany,New York,5
+10959,2023-12-14,8585,Accessories Product 48,Sports,Accessories,140.68,1,140.68,10,14.07,126.61,Credit Card,71,Female,San Diego,California,4
+10960,2023-12-14,5370,Comics Product 39,Books,Comics,10.31,3,30.93,0,0.0,30.93,Google Pay,49,Female,Chicago,Illinois,3
+10961,2023-12-14,8157,Tablets Product 10,Electronics,Tablets,1989.91,2,3979.82,0,0.0,3979.82,PayPal,18,Male,Buffalo,New York,4
+10962,2023-12-15,7407,Accessories Product 37,Sports,Accessories,477.02,2,954.04,0,0.0,954.04,Bank Transfer,31,Female,Dallas,Texas,4
+10963,2023-12-15,7407,Headphones Product 70,Electronics,Headphones,655.89,1,655.89,0,0.0,655.89,Google Pay,28,Female,Miami,Florida,4
+10964,2023-12-15,7407,Non-fiction Product 45,Books,Non-fiction,43.19,2,86.38,15,12.96,73.42,PayPal,71,Female,Chicago,Illinois,5
+10965,2023-12-15,5606,Headphones Product 17,Electronics,Headphones,1588.85,2,3177.7,5,158.88,3018.82,Bank Transfer,35,Male,Chicago,Illinois,1
+10966,2023-12-15,5606,Fiction Product 1,Books,Fiction,10.62,5,53.1,5,2.66,50.44,Credit Card,50,Female,Tampa,Florida,4
+10967,2023-12-16,6941,Non-fiction Product 36,Books,Non-fiction,26.33,3,78.99,0,0.0,78.99,Credit Card,39,Non-binary,Albany,New York,3
+10968,2023-12-16,6941,Biographies Product 14,Books,Biographies,79.14,2,158.28,10,15.83,142.45,PayPal,29,Male,Dallas,Texas,5
+10969,2023-12-16,6763,Bedding Product 38,Home & Kitchen,Bedding,435.81,1,435.81,0,0.0,435.81,PayPal,72,Non-binary,Tampa,Florida,5
+10970,2023-12-16,6763,Headphones Product 84,Electronics,Headphones,927.09,1,927.09,0,0.0,927.09,PayPal,58,Non-binary,Chicago,Illinois,5
+10971,2023-12-17,6763,Tablets Product 61,Electronics,Tablets,967.79,1,967.79,0,0.0,967.79,Google Pay,24,Male,Chicago,Illinois,4
+10972,2023-12-17,6763,Dresses Product 21,Clothing,Dresses,63.05,2,126.1,10,12.61,113.49,Google Pay,29,Non-binary,Buffalo,New York,3
+10973,2023-12-18,4256,Cameras Product 36,Electronics,Cameras,1855.45,1,1855.45,0,0.0,1855.45,Bank Transfer,56,Non-binary,Dallas,Texas,1
+10974,2023-12-18,7891,Decor Product 8,Home & Kitchen,Decor,369.69,2,739.38,0,0.0,739.38,PayPal,38,Non-binary,Los Angeles,California,4
+10975,2023-12-18,2287,Cameras Product 81,Electronics,Cameras,300.89,1,300.89,5,15.04,285.85,Apple Pay,33,Female,Sacramento,California,3
+10976,2023-12-20,2306,Apparel Product 56,Sports,Apparel,195.2,3,585.6,0,0.0,585.6,Credit Card,22,Female,Buffalo,New York,2
+10977,2023-12-21,2306,Appliances Product 93,Home & Kitchen,Appliances,537.16,2,1074.32,0,0.0,1074.32,Credit Card,28,Female,Dallas,Texas,3
+10978,2023-12-21,2306,Comics Product 55,Books,Comics,63.31,2,126.62,0,0.0,126.62,PayPal,61,Non-binary,San Francisco,California,4
+10979,2023-12-21,7103,Tablets Product 32,Electronics,Tablets,1037.0,1,1037.0,0,0.0,1037.0,Google Pay,51,Female,New York City,New York,4
+10980,2023-12-21,2934,Educational Product 11,Books,Educational,63.84,1,63.84,5,3.19,60.65,Apple Pay,73,Non-binary,Rochester,New York,5
+10981,2023-12-22,8220,Footwear Product 1,Sports,Footwear,411.74,2,823.48,5,41.17,782.31,PayPal,57,Female,Tampa,Florida,4
+10982,2023-12-23,8142,Shoes Product 53,Clothing,Shoes,178.79,2,357.58,0,0.0,357.58,Apple Pay,62,Non-binary,Houston,Texas,4
+10983,2023-12-23,7713,Furniture Product 99,Home & Kitchen,Furniture,154.5,1,154.5,15,23.18,131.32,Bank Transfer,29,Female,Austin,Texas,5
+10984,2023-12-23,1845,Appliances Product 43,Home & Kitchen,Appliances,182.61,2,365.22,0,0.0,365.22,Credit Card,71,Non-binary,Houston,Texas,1
+10985,2023-12-24,2512,Headphones Product 32,Electronics,Headphones,547.99,1,547.99,5,27.4,520.59,Bank Transfer,39,Male,Buffalo,New York,4
+10986,2023-12-24,3569,Dresses Product 87,Clothing,Dresses,159.43,2,318.86,15,47.83,271.03,PayPal,41,Male,Peoria,Illinois,3
+10987,2023-12-25,9799,Cameras Product 43,Electronics,Cameras,357.94,1,357.94,5,17.9,340.04,Apple Pay,65,Female,Buffalo,New York,3
+10988,2023-12-25,4249,Tablets Product 44,Electronics,Tablets,1596.21,1,1596.21,0,0.0,1596.21,PayPal,34,Male,Sacramento,California,5
+10989,2023-12-26,2419,Headphones Product 69,Electronics,Headphones,1730.5,1,1730.5,5,86.53,1643.97,Apple Pay,53,Female,San Francisco,California,2
+10990,2023-12-26,2419,Smartphones Product 32,Electronics,Smartphones,1566.85,1,1566.85,0,0.0,1566.85,Google Pay,35,Male,Syracuse,New York,5
+10991,2023-12-26,2419,Tablets Product 32,Electronics,Tablets,1158.06,1,1158.06,5,57.9,1100.16,PayPal,72,Female,Springfield,Illinois,2
+10992,2023-12-26,2419,Laptops Product 67,Electronics,Laptops,306.89,1,306.89,0,0.0,306.89,Google Pay,67,Female,Buffalo,New York,4
+10993,2023-12-26,2419,Accessories Product 63,Sports,Accessories,234.33,1,234.33,0,0.0,234.33,Apple Pay,39,Non-binary,Naperville,Illinois,5
+10994,2023-12-26,2419,Accessories Product 82,Clothing,Accessories,78.64,2,157.28,0,0.0,157.28,Credit Card,34,Male,Miami,Florida,2
+10995,2023-12-27,2419,Apparel Product 24,Sports,Apparel,334.76,3,1004.28,20,200.86,803.42,Credit Card,47,Non-binary,Jacksonville,Florida,2
+10996,2023-12-27,4902,Shirts Product 72,Clothing,Shirts,192.72,1,192.72,0,0.0,192.72,Apple Pay,28,Non-binary,San Francisco,California,2
+10997,2023-12-29,2498,Cameras Product 42,Electronics,Cameras,902.13,1,902.13,5,45.11,857.02,PayPal,48,Non-binary,San Antonio,Texas,2
+10998,2023-12-30,8453,Dresses Product 68,Clothing,Dresses,101.42,1,101.42,0,0.0,101.42,Google Pay,38,Male,Los Angeles,California,4
+10999,2023-12-30,7477,Shoes Product 4,Clothing,Shoes,76.83,1,76.83,5,3.84,72.99,PayPal,24,Male,New York City,New York,4
